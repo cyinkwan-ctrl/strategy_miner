@@ -1,0 +1,70 @@
+{
+  "accounts": [
+    {
+      "username": "CryptoGlennR",
+      "source": "rss",
+      "strategy_keywords": ["alpha", "setup", "entry", "BTC", "ETH", "swing"],
+      "description": "加密货币技术分析专家"
+    },
+    {
+      "username": "交易韬略",
+      "source": "rss",
+      "strategy_keywords": ["交易策略", "技术分析", "止损", "盈利"],
+      "description": "中文交易策略分享"
+    },
+    {
+      "username": "hasixo",
+      "source": "playwright",
+      "strategy_keywords": ["strategy", "trade", "signal", "BTC", "ETH", "altcoin"],
+      "description": "加密货币交易信号提供者"
+    },
+    {
+      "username": "CryptoCobain",
+      "source": "playwright",
+      "strategy_keywords": ["trade", "long", "short", "leverage", "futures"],
+      "description": "杠杆交易专家"
+    },
+    {
+      "username": "AltcoinGordon",
+      "source": "rss",
+      "strategy_keywords": ["altcoin", "moon", "gain", "100x", "gem"],
+      "description": "Altcoin 机会发现者"
+    },
+    {
+      "username": "RektTrader",
+      "source": "playwright",
+      "strategy_keywords": ["short", "long", "leverage", "liquidation", "funding"],
+      "description": "DeFi 杠杆交易"
+    },
+    {
+      "username": "CryptoIcons",
+      "source": "rss",
+      "strategy_keywords": ["setup", "entry", "exit", "tp", "sl"],
+      "description": "技术分析图表"
+    },
+    {
+      "username": "MMCROC",
+      "source": "playwright",
+      "strategy_keywords": ["strategy", "alpha", "signal", "calls"],
+      "description": "加密货币 Alpha 信号"
+    }
+  ],
+  "global_keywords": [
+    "strategy",
+    "trading",
+    "analysis",
+    "setup",
+    "entry",
+    "exit",
+    "signal",
+    "BTC",
+    "ETH",
+    "crypto"
+  ],
+  "filter_settings": {
+    "max_tweets_per_account": 10,
+    "min_content_length": 50,
+    "exclude_retweets": true,
+    "exclude_promotions": true
+  }
+}

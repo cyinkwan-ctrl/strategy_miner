@@ -1,0 +1,71 @@
+2026-02-10 10:58:05,598 - reddit_scraper - INFO - ============================================================
+2026-02-10 10:58:05,599 - reddit_scraper - INFO - 🚀 开始 Reddit 策略扫描...
+2026-02-10 10:58:05,599 - reddit_scraper - INFO - 目标 subreddits: investing, stocks, wallstreetbets, SecurityAnalysis, options, cryptomarkets, CryptoMoonShots, CryptoCurrency, Bitcoin, Trading, Forex, Daytrading
+2026-02-10 10:58:05,599 - reddit_scraper - INFO - ============================================================
+2026-02-10 10:58:05,601 - reddit_scraper - INFO - 📺 扫描 r/investing...
+2026-02-10 10:58:05,602 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/investing
+2026-02-10 10:58:05,602 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/investing
+2026-02-10 10:58:05,602 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,603 - reddit_scraper - INFO -   从 r/investing 发现 0 个策略
+2026-02-10 10:58:05,603 - reddit_scraper - INFO - 📺 扫描 r/stocks...
+2026-02-10 10:58:05,603 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/stocks
+2026-02-10 10:58:05,603 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/stocks
+2026-02-10 10:58:05,603 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,603 - reddit_scraper - INFO -   从 r/stocks 发现 0 个策略
+2026-02-10 10:58:05,604 - reddit_scraper - INFO - 📺 扫描 r/wallstreetbets...
+2026-02-10 10:58:05,604 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/wallstreetbets
+2026-02-10 10:58:05,604 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/wallstreetbets
+2026-02-10 10:58:05,604 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,604 - reddit_scraper - INFO -   从 r/wallstreetbets 发现 0 个策略
+2026-02-10 10:58:05,604 - reddit_scraper - INFO - 📺 扫描 r/SecurityAnalysis...
+2026-02-10 10:58:05,605 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/SecurityAnalysis
+2026-02-10 10:58:05,605 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/SecurityAnalysis
+2026-02-10 10:58:05,605 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,605 - reddit_scraper - INFO -   从 r/SecurityAnalysis 发现 0 个策略
+2026-02-10 10:58:05,605 - reddit_scraper - INFO - 📺 扫描 r/options...
+2026-02-10 10:58:05,605 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/options
+2026-02-10 10:58:05,606 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/options
+2026-02-10 10:58:05,606 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,606 - reddit_scraper - INFO -   从 r/options 发现 0 个策略
+2026-02-10 10:58:05,606 - reddit_scraper - INFO - 📺 扫描 r/cryptomarkets...
+2026-02-10 10:58:05,606 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/cryptomarkets
+2026-02-10 10:58:05,606 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/cryptomarkets
+2026-02-10 10:58:05,607 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,607 - reddit_scraper - INFO -   从 r/cryptomarkets 发现 0 个策略
+2026-02-10 10:58:05,607 - reddit_scraper - INFO - 📺 扫描 r/CryptoMoonShots...
+2026-02-10 10:58:05,607 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/CryptoMoonShots
+2026-02-10 10:58:05,607 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/CryptoMoonShots
+2026-02-10 10:58:05,607 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,607 - reddit_scraper - INFO -   从 r/CryptoMoonShots 发现 0 个策略
+2026-02-10 10:58:05,608 - reddit_scraper - INFO - 📺 扫描 r/CryptoCurrency...
+2026-02-10 10:58:05,608 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/CryptoCurrency
+2026-02-10 10:58:05,608 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/CryptoCurrency
+2026-02-10 10:58:05,608 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,608 - reddit_scraper - INFO -   从 r/CryptoCurrency 发现 0 个策略
+2026-02-10 10:58:05,608 - reddit_scraper - INFO - 📺 扫描 r/Bitcoin...
+2026-02-10 10:58:05,609 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Bitcoin
+2026-02-10 10:58:05,609 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Bitcoin
+2026-02-10 10:58:05,609 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,609 - reddit_scraper - INFO -   从 r/Bitcoin 发现 0 个策略
+2026-02-10 10:58:05,609 - reddit_scraper - INFO - 📺 扫描 r/Trading...
+2026-02-10 10:58:05,609 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Trading
+2026-02-10 10:58:05,610 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Trading
+2026-02-10 10:58:05,610 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,610 - reddit_scraper - INFO -   从 r/Trading 发现 0 个策略
+2026-02-10 10:58:05,610 - reddit_scraper - INFO - 📺 扫描 r/Forex...
+2026-02-10 10:58:05,610 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Forex
+2026-02-10 10:58:05,610 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Forex
+2026-02-10 10:58:05,611 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,611 - reddit_scraper - INFO -   从 r/Forex 发现 0 个策略
+2026-02-10 10:58:05,611 - reddit_scraper - INFO - 📺 扫描 r/Daytrading...
+2026-02-10 10:58:05,611 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Daytrading
+2026-02-10 10:58:05,611 - reddit_scraper - WARNING - Reddit API 未配置，跳过 r/Daytrading
+2026-02-10 10:58:05,611 - reddit_scraper - INFO -   找到 0 个唯一帖子
+2026-02-10 10:58:05,611 - reddit_scraper - INFO -   从 r/Daytrading 发现 0 个策略
+2026-02-10 10:58:05,612 - reddit_scraper - INFO - 
+============================================================
+2026-02-10 10:58:05,612 - reddit_scraper - INFO - 📊 Reddit 扫描完成
+2026-02-10 10:58:05,612 - reddit_scraper - INFO -    总发现: 0
+2026-02-10 10:58:05,612 - reddit_scraper - INFO -    去重后: 0
+2026-02-10 10:58:05,612 - reddit_scraper - INFO - ============================================================
+2026-02-10 10:58:05,619 - reddit_scraper - INFO - 💾 保存了 0 个新策略到 /Users/januswing/.openclaw/workspace/strategy_miner/strategies.json

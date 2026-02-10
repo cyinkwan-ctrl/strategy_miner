@@ -1,0 +1,179 @@
+{
+  "strategies": [
+    {
+      "id": 1,
+      "source": "reddit",
+      "author": "TradingView_Signals",
+      "url": "https://reddit.com/r/Trading/comments/abc123/moving_average_crossover_strategy/",
+      "title": "Golden Cross Strategy - 50/200 MA Crossover",
+      "content": "Golden cross is when 50-day MA crosses above 200-day MA. Buy signal. Exit when 50-day MA crosses below 200-day MA. Stop loss at 5%.",
+      "extracted_logic": "Golden cross: 50-day MA crosses above 200-day MA = BUY. Exit when 50-day MA crosses below 200-day MA = SELL. Stop loss 5%.",
+      "discovered_at": "2026-02-10T11:01:54.358634",
+      "validated_at": "2026-02-10T11:01:56.629044",
+      "status": "rejected",
+      "backtest_result": {
+        "annual_return": 0,
+        "max_drawdown": 100,
+        "win_rate": 0,
+        "total_trades": 0,
+        "profit_factor": 0,
+        "sharpe_ratio": 0,
+        "avg_trade_return": 0,
+        "passed": false
+      },
+      "keywords": [
+        "Trading"
+      ],
+      "data_source": "reddit",
+      "score": 542,
+      "num_comments": 89
+    },
+    {
+      "id": 2,
+      "source": "reddit",
+      "author": "OptionsMaster",
+      "url": "https://reddit.com/r/options/comments/def456/rsi_oversold_strategy/",
+      "title": "RSI Oversold Reversal Strategy",
+      "content": "Buy when RSI goes below 30 (oversold). Sell when RSI crosses back above 50. Stop loss at 10%. This mean reversion strategy has 65% win rate historically.",
+      "extracted_logic": "Buy when RSI below 30 (oversold). Sell when RSI crosses above 50. Stop loss 10%. Mean reversion.",
+      "discovered_at": "2026-02-10T11:01:54.358669",
+      "validated_at": "2026-02-10T11:01:56.827236",
+      "status": "passed",
+      "backtest_result": {
+        "annual_return": -1.52,
+        "max_drawdown": 6.78,
+        "win_rate": 60.0,
+        "total_trades": 5,
+        "profit_factor": 1.02,
+        "sharpe_ratio": -1.04,
+        "avg_trade_return": -0.25,
+        "passed": true
+      },
+      "keywords": [
+        "options"
+      ],
+      "data_source": "reddit",
+      "score": 421,
+      "num_comments": 67
+    },
+    {
+      "id": 3,
+      "source": "reddit",
+      "author": "CryptoTraderPro",
+      "url": "https://reddit.com/r/CryptoMoonShots/comments/ghi789/bollinger_band_squeeze/",
+      "title": "Bollinger Band Squeeze Breakout Strategy",
+      "content": "Bollinger Band squeeze indicates low volatility. Buy when price breaks above upper band. Stop loss at lower band. Take profit at 2:1 risk reward ratio.",
+      "extracted_logic": "Buy when price breaks above upper Bollinger Band. Stop loss at lower band. Take profit 2:1 risk reward.",
+      "discovered_at": "2026-02-10T11:01:54.358682",
+      "validated_at": "2026-02-10T11:01:57.059131",
+      "status": "passed",
+      "backtest_result": {
+        "annual_return": 7.33,
+        "max_drawdown": 6.15,
+        "win_rate": 50.0,
+        "total_trades": 10,
+        "profit_factor": 1.07,
+        "sharpe_ratio": 3.88,
+        "avg_trade_return": 1.19,
+        "passed": true
+      },
+      "keywords": [
+        "CryptoMoonShots"
+      ],
+      "data_source": "reddit",
+      "score": 318,
+      "num_comments": 45
+    },
+    {
+      "id": 4,
+      "source": "reddit",
+      "author": "ValueInvestor_Real",
+      "url": "https://reddit.com/r/SecurityAnalysis/comments/jkl012/pe_ratio_strategy/",
+      "title": "Low PE Ratio Value Strategy",
+      "content": "Buy stocks with PE ratio below 15. Hold until PE reaches 25 or stop loss at 20% drop. Works best for long-term investing in index funds.",
+      "extracted_logic": "Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.",
+      "discovered_at": "2026-02-10T11:01:54.358694",
+      "validated_at": "2026-02-10T11:01:57.505999",
+      "status": "passed",
+      "backtest_result": {
+        "annual_return": 19.44,
+        "max_drawdown": 3.68,
+        "win_rate": 42.86,
+        "total_trades": 7,
+        "profit_factor": 1.15,
+        "sharpe_ratio": 9.63,
+        "avg_trade_return": 3.82,
+        "passed": true
+      },
+      "keywords": [
+        "SecurityAnalysis"
+      ],
+      "data_source": "reddit",
+      "score": 287,
+      "num_comments": 34
+    },
+    {
+      "id": 5,
+      "source": "reddit",
+      "author": "SwingTraderDaily",
+      "url": "https://reddit.com/r/stocks/comments/mno345/support_resistance_bounce/",
+      "title": "Support Bounce Trading Strategy",
+      "content": "Buy when price bounces off major support level. Place stop loss just below support. Target previous resistance. Risk reward 1:2.",
+      "extracted_logic": "Buy on support bounce. Stop loss below support. Target resistance. Risk reward 1:2.",
+      "discovered_at": "2026-02-10T11:01:54.358706",
+      "validated_at": "2026-02-10T11:01:57.906065",
+      "status": "passed",
+      "backtest_result": {
+        "annual_return": 19.44,
+        "max_drawdown": 3.68,
+        "win_rate": 42.86,
+        "total_trades": 7,
+        "profit_factor": 1.15,
+        "sharpe_ratio": 9.63,
+        "avg_trade_return": 3.82,
+        "passed": true
+      },
+      "keywords": [
+        "stocks"
+      ],
+      "data_source": "reddit",
+      "score": 198,
+      "num_comments": 28
+    },
+    {
+      "id": 6,
+      "source": "reddit",
+      "author": "MacdTrader",
+      "url": "https://reddit.com/r/Daytrading/comments/pqr678/macd_crossover_trading/",
+      "title": "MACD Crossover Intraday Strategy",
+      "content": "MACD histogram turns positive = buy signal. Exit when histogram turns negative. Works on 4hr timeframe. Stop loss 2%.",
+      "extracted_logic": "MACD histogram positive = BUY. Exit when histogram negative. 4hr timeframe. Stop loss 2%.",
+      "discovered_at": "2026-02-10T11:01:54.358718",
+      "validated_at": "2026-02-10T11:01:58.212081",
+      "status": "passed",
+      "backtest_result": {
+        "annual_return": 19.44,
+        "max_drawdown": 3.68,
+        "win_rate": 42.86,
+        "total_trades": 7,
+        "profit_factor": 1.15,
+        "sharpe_ratio": 9.63,
+        "avg_trade_return": 3.82,
+        "passed": true
+      },
+      "keywords": [
+        "Daytrading"
+      ],
+      "data_source": "reddit",
+      "score": 156,
+      "num_comments": 23
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-10T10:00:00+08:00",
+    "last_updated": "2026-02-10T11:01:54.358725",
+    "total_scanned": 6,
+    "passed": 5,
+    "rejected": 1
+  }
+}

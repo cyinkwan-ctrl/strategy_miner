@@ -1,0 +1,31 @@
+2026-02-10 10:59:15,122 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-10 10:59:15,125 - strategy_validator - INFO - 开始验证策略: Golden Cross Strategy - 50/200 MA Crossover
+2026-02-10 10:59:15,125 - strategy_validator - INFO - 策略逻辑: Golden cross: 50-day MA crosses above 200-day MA = BUY. Exit when 50-day MA crosses below 200-day MA = SELL. Stop loss 5%.
+2026-02-10 10:59:15,137 - strategy_validator - INFO - 解析结果: {'type': 'ma_crossover', 'parameters': {'fast_ma': 10, 'slow_ma': 50}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.05, 'take_profit': None}
+2026-02-10 10:59:17,308 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-10 10:59:17,447 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-10 10:59:17,449 - strategy_validator - INFO - 开始验证策略: RSI Oversold Reversal Strategy
+2026-02-10 10:59:17,456 - strategy_validator - INFO - 策略逻辑: Buy when RSI below 30 (oversold). Sell when RSI crosses above 50. Stop loss 10%. Mean reversion.
+2026-02-10 10:59:17,458 - strategy_validator - INFO - 解析结果: {'type': 'rsi_oversold', 'parameters': {'rsi_oversold': 30}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.1, 'take_profit': None}
+2026-02-10 10:59:19,442 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-10 10:59:19,444 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-10 10:59:19,445 - strategy_validator - INFO - 开始验证策略: Bollinger Band Squeeze Breakout Strategy
+2026-02-10 10:59:19,445 - strategy_validator - INFO - 策略逻辑: Buy when price breaks above upper Bollinger Band. Stop loss at lower band. Take profit 2:1 risk reward.
+2026-02-10 10:59:19,446 - strategy_validator - INFO - 解析结果: {'type': 'bollinger_bands', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': [], 'stop_loss': None, 'take_profit': None}
+2026-02-10 10:59:21,009 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-10 10:59:21,011 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-10 10:59:21,012 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-10 10:59:21,013 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-10 10:59:21,013 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-10 10:59:22,912 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-10 10:59:22,914 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-10 10:59:22,915 - strategy_validator - INFO - 开始验证策略: Support Bounce Trading Strategy
+2026-02-10 10:59:22,915 - strategy_validator - INFO - 策略逻辑: Buy on support bounce. Stop loss below support. Target resistance. Risk reward 1:2.
+2026-02-10 10:59:22,916 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': [], 'stop_loss': None, 'take_profit': None}
+2026-02-10 10:59:25,894 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-10 10:59:25,895 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-10 10:59:25,896 - strategy_validator - INFO - 开始验证策略: MACD Crossover Intraday Strategy
+2026-02-10 10:59:25,896 - strategy_validator - INFO - 策略逻辑: MACD histogram positive = BUY. Exit when histogram negative. 4hr timeframe. Stop loss 2%.
+2026-02-10 10:59:25,896 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': [], 'stop_loss': 0.02, 'take_profit': None}
+2026-02-10 10:59:27,762 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-10 10:59:27,764 - strategy_validator - ERROR - 无法获取市场数据
