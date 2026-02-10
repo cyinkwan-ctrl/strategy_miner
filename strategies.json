@@ -92,14 +92,12 @@
       "extracted_logic": "Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.",
       "discovered_at": "2026-02-10T11:01:54.358694",
       "validated_at": "2026-02-10T11:01:57.505999",
-      "status": "invalid",
+      "status": "pending_ta",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "SPY",
+        "period": "2年",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要技术指标数据验证"
       },
       "keywords": [
         "SecurityAnalysis"
@@ -172,14 +170,12 @@
       "extracted_logic": "Buy top 10% performers from last 3 months. Hold 1 month. Monthly rebalance.",
       "discovered_at": "2026-02-10T19:40:13.217581",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_ta",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "SPY",
+        "period": "2年",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要技术指标数据验证"
       },
       "keywords": [
         "quant"
@@ -198,14 +194,12 @@
       "extracted_logic": "Screen stocks with dividend yield >3%. Hold 6 months. DRIP enabled.",
       "discovered_at": "2026-02-10T19:40:13.217623",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_fundamental",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "需要个股数据",
+        "period": "需要基本面数据",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要PE、ROE、股息等基本面数据才能验证"
       },
       "keywords": [
         "ValueInvesting"
@@ -224,14 +218,12 @@
       "extracted_logic": "Calculate z-score of price ratio. Trade when z-score >2 or <-2. Mean reversion play.",
       "discovered_at": "2026-02-10T19:40:13.217638",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_ta",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "SPY",
+        "period": "2年",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要技术指标数据验证"
       },
       "keywords": [
         "algotrading"
@@ -250,14 +242,12 @@
       "extracted_logic": "Screen stocks with 5+ years of consecutive dividend growth. Reinvest dividends automatically. Hold long-term for compound growth.",
       "discovered_at": "2026-02-10T23:04:21.158751",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_fundamental",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "需要个股数据",
+        "period": "需要基本面数据",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要PE、ROE、股息等基本面数据才能验证"
       },
       "keywords": [
         "dividend"
@@ -276,14 +266,12 @@
       "extracted_logic": "Screen stocks with ROE > 15%, Debt/Equity < 0.5, and 5-year earnings growth > 10%. Hold quality companies long-term.",
       "discovered_at": "2026-02-10T23:04:21.158843",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_fundamental",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "需要个股数据",
+        "period": "需要基本面数据",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要PE、ROE、股息等基本面数据才能验证"
       },
       "keywords": [
         "valueinvesting"
@@ -302,14 +290,12 @@
       "extracted_logic": "Patience-based value investing. Wait for perfect pitches (undervalued opportunities). Do not force trades. Only invest when margin of safety is high.",
       "discovered_at": "2026-02-10T23:04:21.158879",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_ta",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "SPY",
+        "period": "2年",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要技术指标数据验证"
       },
       "keywords": [
         "valueinvesting"
@@ -328,14 +314,12 @@
       "extracted_logic": "Combine economic cycle timing + fundamental value screening + technical signals. Multi-timeframe analysis.",
       "discovered_at": "2026-02-10T23:04:21.158907",
       "validated_at": null,
-      "status": "invalid",
+      "status": "pending_ta",
       "backtest_result": {
-        "notes": "无真实回测数据，需要验证",
-        "symbol": null,
-        "period": null,
+        "symbol": "SPY",
+        "period": "2年",
         "total_trades": 0,
-        "win_rate": null,
-        "total_return": null
+        "notes": "需要技术指标数据验证"
       },
       "keywords": [
         "algotrading"
@@ -347,7 +331,7 @@
   ],
   "metadata": {
     "created_at": "2026-02-10T10:00:00+08:00",
-    "last_updated": "2026-02-10T23:23:45.076049",
+    "last_updated": "2026-02-10T23:31:43.508605",
     "total_scanned": 13,
     "passed": 5,
     "rejected": 1,
