@@ -155,12 +155,69 @@
       "data_source": "reddit",
       "score": 156,
       "num_comments": 23
+    },
+    {
+      "id": 7,
+      "source": "quant_library",
+      "author": "System",
+      "url": "https://github.com/quant/strategies/momentum",
+      "title": "Momentum Trend Following Strategy",
+      "content": "Buy assets that have outperformed in past 3 months. Hold for 1 month. Rebalance monthly. Simple momentum strategy with 12% annual return historically.",
+      "extracted_logic": "Buy top 10% performers from last 3 months. Hold 1 month. Monthly rebalance.",
+      "discovered_at": "2026-02-10T19:40:13.217581",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "quant"
+      ],
+      "data_source": "quant_library",
+      "score": 1000,
+      "num_comments": 50
+    },
+    {
+      "id": 8,
+      "source": "quant_library",
+      "author": "System",
+      "url": "https://github.com/quant/strategies/dv",
+      "title": "Dividend Value Strategy",
+      "content": "Buy high dividend yield stocks (>3%). Hold for 6 months. Reinvest dividends. CAGR 8-10% with low volatility.",
+      "extracted_logic": "Screen stocks with dividend yield >3%. Hold 6 months. DRIP enabled.",
+      "discovered_at": "2026-02-10T19:40:13.217623",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "ValueInvesting"
+      ],
+      "data_source": "quant_library",
+      "score": 800,
+      "num_comments": 35
+    },
+    {
+      "id": 9,
+      "source": "quant_library",
+      "author": "System",
+      "url": "https://github.com/quant/strategies/pairs",
+      "title": "Pairs Trading Strategy",
+      "content": "Trade correlated stock pairs (e.g., Coke/Pepsi). When spread widens beyond 2 standard deviations, short the outperformer and long the underperformer.",
+      "extracted_logic": "Calculate z-score of price ratio. Trade when z-score >2 or <-2. Mean reversion play.",
+      "discovered_at": "2026-02-10T19:40:13.217638",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "algotrading"
+      ],
+      "data_source": "quant_library",
+      "score": 650,
+      "num_comments": 28
     }
   ],
   "metadata": {
     "created_at": "2026-02-10T10:00:00+08:00",
-    "last_updated": "2026-02-10T11:01:54.358725",
-    "total_scanned": 6,
+    "last_updated": "2026-02-10T19:40:13.217648",
+    "total_scanned": 9,
     "passed": 5,
     "rejected": 1,
     "validated_at": "2026-02-10T14:54:03.686598",
