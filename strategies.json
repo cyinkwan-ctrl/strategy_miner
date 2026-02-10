@@ -219,12 +219,88 @@
       "data_source": "quant_library",
       "score": 650,
       "num_comments": 28
+    },
+    {
+      "id": 10,
+      "source": "twitter",
+      "author": "@DividendVet",
+      "url": "https://twitter.com/DividendVet",
+      "title": "Dividend Growth Investing Strategy",
+      "content": "Follow my journey at dividendvet.com as I aim for financial independence through Dividend Growth Investing strategy. Focus on companies with consistent dividend growth over 5+ years, reinvest dividends (DRIP).",
+      "extracted_logic": "Screen stocks with 5+ years of consecutive dividend growth. Reinvest dividends automatically. Hold long-term for compound growth.",
+      "discovered_at": "2026-02-10T23:04:21.158751",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "dividend"
+      ],
+      "data_source": "twitter",
+      "score": 500,
+      "num_comments": 100
+    },
+    {
+      "id": 11,
+      "source": "twitter",
+      "author": "@InvestInAssets",
+      "url": "https://twitter.com/InvestInAssets",
+      "title": "Quality Investing Strategy",
+      "content": "A simple quality investing strategy: Focus on companies with high ROE, low debt, and consistent earnings growth. Quality over quantity.",
+      "extracted_logic": "Screen stocks with ROE > 15%, Debt/Equity < 0.5, and 5-year earnings growth > 10%. Hold quality companies long-term.",
+      "discovered_at": "2026-02-10T23:04:21.158843",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "valueinvesting"
+      ],
+      "data_source": "twitter",
+      "score": 450,
+      "num_comments": 80
+    },
+    {
+      "id": 12,
+      "source": "twitter",
+      "author": "@SJosephBurns",
+      "url": "https://twitter.com/SJosephBurns",
+      "title": "Buffett Waiting Strategy",
+      "content": "Buffett explains that in investing, the strategy is to 'sit there and watch pitch after pitch go by and wait for the one right in your sweet spot.' Ignore those who are yelling, 'Swing, you bum!'. In investing, there is 'no such thing as a called strike'.",
+      "extracted_logic": "Patience-based value investing. Wait for perfect pitches (undervalued opportunities). Do not force trades. Only invest when margin of safety is high.",
+      "discovered_at": "2026-02-10T23:04:21.158879",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "valueinvesting"
+      ],
+      "data_source": "twitter",
+      "score": 800,
+      "num_comments": 200
+    },
+    {
+      "id": 13,
+      "source": "twitter",
+      "author": "@cycle_strategy",
+      "url": "https://twitter.com/cycle_strategy",
+      "title": "Cycle + Value + Technical Analysis Strategy",
+      "content": "Long-term cycle, value, technical analysis combined approach. Use economic cycles to time entries, value metrics for stock selection, technical for exit timing.",
+      "extracted_logic": "Combine economic cycle timing + fundamental value screening + technical signals. Multi-timeframe analysis.",
+      "discovered_at": "2026-02-10T23:04:21.158907",
+      "validated_at": null,
+      "status": "pending",
+      "backtest_result": null,
+      "keywords": [
+        "algotrading"
+      ],
+      "data_source": "twitter",
+      "score": 600,
+      "num_comments": 120
     }
   ],
   "metadata": {
     "created_at": "2026-02-10T10:00:00+08:00",
-    "last_updated": "2026-02-10",
-    "total_scanned": 9,
+    "last_updated": "2026-02-10T23:04:21.158933",
+    "total_scanned": 13,
     "passed": 5,
     "rejected": 1,
     "validated_at": "2026-02-10T14:54:03.686598",
