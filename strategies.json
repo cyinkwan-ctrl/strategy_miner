@@ -10,16 +10,19 @@
       "extracted_logic": "Golden cross: 50-day MA crosses above 200-day MA = BUY. Exit when 50-day MA crosses below 200-day MA = SELL. Stop loss 5%.",
       "discovered_at": "2026-02-10T11:01:54.358634",
       "validated_at": "2026-02-10T11:01:56.629044",
-      "status": "rejected",
+      "status": "failed",
       "backtest_result": {
-        "annual_return": 0,
-        "max_drawdown": 100,
-        "win_rate": 0,
-        "total_trades": 0,
-        "profit_factor": 0,
-        "sharpe_ratio": 0,
-        "avg_trade_return": 0,
-        "passed": false
+        "symbol": "SPY",
+        "period": "2024-02-12 ~ 2026-02-09 (500交易日)",
+        "total_trades": 1,
+        "win_rate": 100.0,
+        "total_return": 0.11,
+        "annual_return": 0.05,
+        "max_drawdown": null,
+        "sharpe_ratio": null,
+        "profit_factor": null,
+        "benchmark_return": 38.52,
+        "notes": "牛市期间MA交叉信号稀少，导致策略收益远低于买入持有"
       },
       "keywords": [
         "Trading"
@@ -38,16 +41,19 @@
       "extracted_logic": "Buy when RSI below 30 (oversold). Sell when RSI crosses above 50. Stop loss 10%. Mean reversion.",
       "discovered_at": "2026-02-10T11:01:54.358669",
       "validated_at": "2026-02-10T11:01:56.827236",
-      "status": "passed",
+      "status": "failed",
       "backtest_result": {
-        "annual_return": -1.52,
-        "max_drawdown": 6.78,
-        "win_rate": 60.0,
-        "total_trades": 5,
-        "profit_factor": 1.02,
-        "sharpe_ratio": -1.04,
-        "avg_trade_return": -0.25,
-        "passed": true
+        "symbol": "SPY",
+        "period": "2024-02-12 ~ 2026-02-09 (500交易日)",
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "total_return": -1.66,
+        "annual_return": -0.83,
+        "max_drawdown": null,
+        "sharpe_ratio": null,
+        "profit_factor": null,
+        "benchmark_return": 38.52,
+        "notes": "RSI策略在牛市早期发出卖出信号过早，导致亏损"
       },
       "keywords": [
         "options"
@@ -174,6 +180,7 @@
     "last_updated": "2026-02-10T11:01:54.358725",
     "total_scanned": 6,
     "passed": 5,
-    "rejected": 1
+    "rejected": 1,
+    "validated_at": "2026-02-10T14:37:11.477860"
   }
 }
