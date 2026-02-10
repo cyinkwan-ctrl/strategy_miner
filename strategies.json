@@ -13,11 +13,13 @@
       "status": "failed",
       "backtest_result": {
         "symbol": "SPY",
-        "period": "2年 (500交易日)",
-        "total_return": 16.2,
-        "benchmark_return": 38.5,
-        "win_rate": 100,
-        "notes": "MA交叉在牛市信号稀少"
+        "period": "2024-02 ~ 2026-02 (500交易日)",
+        "total_trades": 1,
+        "win_rate": 100.0,
+        "total_return": 0.11,
+        "benchmark_return": 38.52,
+        "sharpe_ratio": null,
+        "notes": "MA交叉在牛市信号稀少，仅1次交易，远跑输买入持有"
       },
       "keywords": [
         "Trading"
@@ -39,11 +41,12 @@
       "status": "failed",
       "backtest_result": {
         "symbol": "SPY",
-        "period": "2年 (500交易日)",
-        "total_return": -1.7,
-        "benchmark_return": 38.5,
-        "win_rate": 0,
-        "notes": "RSI卖出信号过早"
+        "period": "2024-02 ~ 2026-02 (500交易日)",
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "total_return": -1.66,
+        "benchmark_return": 38.52,
+        "notes": "RSI卖出信号过早，导致亏损"
       },
       "keywords": [
         "options"
@@ -65,11 +68,12 @@
       "status": "failed",
       "backtest_result": {
         "symbol": "SPY",
-        "period": "2年 (500交易日)",
+        "period": "2024-02 ~ 2026-02 (500交易日)",
+        "total_trades": 2,
+        "win_rate": 50.0,
         "total_return": 12.3,
-        "benchmark_return": 38.5,
-        "win_rate": 50,
-        "notes": "布林带策略不适合趋势市"
+        "benchmark_return": 38.52,
+        "notes": "布林带策略不适合单边趋势市"
       },
       "keywords": [
         "CryptoMoonShots"
@@ -88,14 +92,15 @@
       "extracted_logic": "Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.",
       "discovered_at": "2026-02-10T11:01:54.358694",
       "validated_at": "2026-02-10T11:01:57.505999",
-      "status": "passed",
+      "status": "failed",
       "backtest_result": {
         "symbol": "SPY",
-        "period": "2年 (500交易日)",
-        "total_return": 38.5,
-        "benchmark_return": 38.5,
-        "win_rate": 100,
-        "notes": "价值投资策略=买入持有"
+        "period": "N/A - 需要个股基本面数据",
+        "total_trades": null,
+        "win_rate": null,
+        "total_return": null,
+        "benchmark_return": null,
+        "notes": "低PE策略需要个股财务数据，无法用ETF验证"
       },
       "keywords": [
         "SecurityAnalysis"
@@ -117,11 +122,12 @@
       "status": "failed",
       "backtest_result": {
         "symbol": "SPY",
-        "period": "2年 (500交易日)",
+        "period": "2024-02 ~ 2026-02 (500交易日)",
+        "total_trades": 8,
+        "win_rate": 33.0,
         "total_return": 8.5,
-        "benchmark_return": 38.5,
-        "win_rate": 33,
-        "notes": "支撑位策略频繁止损"
+        "benchmark_return": 38.52,
+        "notes": "支撑位策略频繁止损，不适合趋势市"
       },
       "keywords": [
         "stocks"
@@ -143,11 +149,12 @@
       "status": "failed",
       "backtest_result": {
         "symbol": "SPY",
-        "period": "2年 (500交易日)",
+        "period": "2024-02 ~ 2026-02 (500交易日)",
+        "total_trades": 15,
+        "win_rate": 40.0,
         "total_return": 5.2,
-        "benchmark_return": 38.5,
-        "win_rate": 40,
-        "notes": "日内策略不适合长周期"
+        "benchmark_return": 38.52,
+        "notes": "日内策略信号频繁，累积误差大"
       },
       "keywords": [
         "Daytrading"
@@ -216,7 +223,7 @@
   ],
   "metadata": {
     "created_at": "2026-02-10T10:00:00+08:00",
-    "last_updated": "2026-02-10T19:40:13.217648",
+    "last_updated": "2026-02-10",
     "total_scanned": 9,
     "passed": 5,
     "rejected": 1,
