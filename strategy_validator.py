@@ -517,7 +517,9 @@ class StrategyValidator:
         
         results = []
         for strategy in data['strategies']:
-            if strategy['status'] == 'pending':
+            # 只验证技术分析策略，跳过基本面策略
+            if strategy['status'] == 'pending_ta':
+                print(f"验证策略: {strategy['title']}")
                 result = self.validate(strategy['id'])
                 if result:
                     results.append({
@@ -525,6 +527,8 @@ class StrategyValidator:
                         'title': strategy['title'],
                         **result
                     })
+            elif strategy['status'].startswith('pending'):
+                print(f"跳过基本面策略: {strategy['title']}")
         
         return results
 

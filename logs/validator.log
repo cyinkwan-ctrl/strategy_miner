@@ -29,3 +29,39 @@
 2026-02-10 10:59:25,896 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': [], 'stop_loss': 0.02, 'take_profit': None}
 2026-02-10 10:59:27,762 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
 2026-02-10 10:59:27,764 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-11 03:25:19,927 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 06:59:44,466 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 06:59:50,169 - strategy_validator - INFO - 获取到 10 条K线数据
+2026-02-11 07:19:56,245 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 07:20:05,433 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 07:20:16,758 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 07:20:42,098 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 07:20:42,118 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 07:20:42,143 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 07:20:42,209 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 07:20:52,924 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 07:20:52,925 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 07:25:16,907 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 07:25:16,911 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 07:25:16,911 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 07:25:16,922 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 07:25:24,919 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 07:25:25,018 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 08:04:03,471 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 08:04:03,475 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 08:04:03,476 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 08:04:03,488 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 08:04:11,787 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 08:04:11,789 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 11:25:15,029 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 11:25:15,035 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 11:25:15,035 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 11:25:15,041 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 11:25:22,214 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 11:25:22,218 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 15:25:29,013 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 15:25:29,063 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 15:25:29,066 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 15:25:29,088 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 15:25:40,098 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 15:25:40,100 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
