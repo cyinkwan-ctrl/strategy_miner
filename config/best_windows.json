@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-02-14T01:08:00+08:00",
+  "best_windows": {
+    "BTC": {
+      "recommended_window": "30min",
+      "accuracy": 100,
+      "samples": 2,
+      "收益": "+1.9%",
+      "alternatives": [
+        {"window": "60min", "accuracy": 100, "收益": "+2.1%"},
+        {"window": "1440min", "accuracy": 32, "收益": "+1.1%", "note": "不推荐"}
+      ]
+    },
+    "ETH": {
+      "recommended_window": "1440min",
+      "accuracy": 62,
+      "samples": 13,
+      "收益": "+3.5%",
+      "alternatives": [
+        {"window": "30min", "accuracy": 50, "收益": "+2.1%"},
+        {"window": "60min", "accuracy": 50, "收益": "+2.3%"}
+      ]
+    }
+  },
+  "summary": "BTC: 30-60min窗口表现最佳(100%准确率); ETH: 日线窗口最佳(62%准确率,+3.5%收益)"
+}

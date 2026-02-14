@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TradingView Sentiment Dashboard</title>
+    <meta http-equiv="refresh" content="30">
+    <style>
+        body { font-family: Arial; margin: 20px; background: #1a1a2e; color: #eee; }
+        h1 { color: #00d4ff; }
+        .card { background: #16213e; padding: 15px; margin: 10px; border-radius: 8px; }
+        .gauge { height: 20px; background: #333; border-radius: 10px; overflow: hidden; }
+        .bar { height: 100%; transition: width 0.3s; }
+        .bullish { background: linear-gradient(90deg, #00b09b, #96c93d); }
+        .bearish { background: linear-gradient(90deg, #ff6b6b, #ee5a24); }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 8px; text-align: left; border-bottom: 1px solid #333; }
+        .best { color: #00ff88; }
+        .metric { font-size: 24px; color: #00d4ff; }
+        .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; }
+        .timestamp { color: #888; font-size: 12px; }
+    </style>
+</head>
+<body>
+    <h1>📊 TradingView 情绪监控看板</h1>
+    <p class="timestamp">最后更新: <span id="time"></span></p>
+    
+    <div id="stats" class="grid"></div>
+    
+    <h2>🎯 当前情绪快照</h2>
+    <div id="sentiment" class="grid"></div>
+    
+    <h2>📈 验证结果</h2>
+    <div id="validation"></div>
+
+    <script>
+        async function loadData() {
+            try {
+                const response = await fetch('/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_validator_state.json');
+                const data = await response.json();
+                
+                document.getElementById('time').textContent = new Date().toLocaleString();
+                
+                // Stats
+                const records = data.records || [];
+                const validations = data.validations || [];
+                const assets = new Set(validations.map(v => v.asset));
+                
+                document.getElementById('stats').innerHTML = `
+                    <div class="card"><div class="metric">${records.length}</div>情绪记录</div>
+                    <div class="card"><div class="metric">${validations.length}</div>验证次数</div>
+                    <div class="card"><div class="metric">${assets.size}</div>涉及资产</div>
+                `;
+                
+                // Validation results
+                const byAsset = {};
+                validations.forEach(v => {
+                    if (!byAsset[v.asset]) byAsset[v.asset] = [];
+                    byAsset[v.asset].push(v);
+                });
+                
+                let html = '<table><tr><th>资产</th><th>窗口</th><th>准确率</th><th>相关性</th></tr>';
+                Object.entries(byAsset).forEach(([asset, vals]) => {
+                    vals.sort((a, b) => a.window - b.window);
+                    vals.forEach(v => {
+                        const acc = v.accuracy ? (v.accuracy * 100).toFixed(0) + '%' : '-';
+                        const corr = v.correlation ? v.correlation.toFixed(2) : '-';
+                        html += `<tr><td>${asset}</td><td>${v.window}min</td><td class="best">${acc}</td><td>${corr}</td></tr>`;
+                    });
+                });
+                html += '</table>';
+                document.getElementById('validation').innerHTML = html;
+                
+                // Load current sentiment
+                fetchCurrentSentiment();
+            } catch(e) {
+                console.log('Waiting for data...');
+            }
+        }
+        
+        async function fetchCurrentSentiment() {
+            // 简化版：直接显示JSON
+            try {
+                const response = await fetch('/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_validator_state.json');
+                const data = await response.json();
+                // 实际实现需要服务器端抓取
+            } catch(e) {}
+        }
+        
+        loadData();
+        setInterval(loadData, 30000);
+    </script>
+</body>
+</html>

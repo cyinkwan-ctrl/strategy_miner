@@ -65,3 +65,86 @@
 2026-02-11 15:25:29,088 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
 2026-02-11 15:25:40,098 - strategy_validator - INFO - 获取到 1000 条K线数据
 2026-02-11 15:25:40,100 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 19:25:41,345 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 19:25:41,348 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 19:25:41,349 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 19:25:41,361 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 19:25:41,366 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 19:25:41,373 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 19:25:41,374 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 19:25:41,384 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 19:25:49,810 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 19:25:49,821 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 19:25:49,823 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 19:25:49,836 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 19:25:50,434 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 19:25:50,436 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 19:25:50,445 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 19:25:50,447 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 19:25:56,420 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 19:25:56,420 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 19:26:13,665 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 19:26:13,667 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 19:26:13,668 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 19:26:13,675 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 19:26:18,977 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 19:26:18,977 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-11 23:25:14,869 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-11 23:25:14,912 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-11 23:25:14,912 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-11 23:25:14,920 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-11 23:25:23,095 - strategy_validator - ERROR - 获取数据失败: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2026-02-11 23:25:23,102 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-11 23:25:23,106 - strategy_validator - INFO - 开始验证策略: Momentum Trend Following Strategy
+2026-02-11 23:25:23,107 - strategy_validator - INFO - 策略逻辑: Buy top 10% performers from last 3 months. Hold 1 month. Monthly rebalance.
+2026-02-11 23:25:23,107 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': [], 'stop_loss': None, 'take_profit': None}
+2026-02-11 23:25:30,904 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-11 23:25:30,904 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-12 03:25:12,840 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-12 03:25:12,842 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-12 03:25:12,842 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-12 03:25:12,851 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-12 03:25:17,308 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-12 03:25:17,309 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-12 19:25:14,764 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-12 19:25:14,766 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-12 19:25:14,766 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-12 19:25:14,772 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-12 19:25:19,395 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-12 19:25:19,396 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-12 23:25:13,413 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-12 23:25:13,416 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-12 23:25:13,416 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-12 23:25:13,423 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-12 23:25:19,222 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-12 23:25:19,223 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-13 03:25:14,577 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-13 03:25:14,580 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-13 03:25:14,581 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-13 03:25:14,587 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-13 03:25:19,101 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-13 03:25:19,102 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-13 11:25:15,145 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-13 11:25:15,148 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-13 11:25:15,149 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-13 11:25:15,159 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-13 11:25:19,843 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-13 11:25:19,845 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-14 03:25:17,569 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-14 03:25:17,571 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-14 03:25:17,571 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-14 03:25:17,576 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-14 03:25:22,682 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-14 03:25:22,683 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-14 07:25:14,093 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-14 07:25:14,096 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-14 07:25:14,096 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-14 07:25:14,101 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-14 07:25:18,566 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-14 07:25:18,567 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-14 11:25:14,567 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-14 11:25:14,569 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-14 11:25:14,569 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-14 11:25:14,573 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-14 11:25:19,256 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-14 11:25:19,258 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略

@@ -1,0 +1,35 @@
+{
+  "last_update": "2026-02-14 11:23:00",
+  "recommendations": {
+    "BTC": {
+      "best_window": "240min",
+      "best_accuracy": 71,
+      "confidence": "high",
+      "sample_size": 14,
+      "all_windows": {
+        "15min": {"accuracy": null, "return": null},
+        "30min": {"accuracy": null, "return": null},
+        "60min": {"accuracy": null, "return": null},
+        "120min": {"accuracy": 60, "return": -0.0},
+        "240min": {"accuracy": 71, "return": -0.0},
+        "1440min": {"accuracy": 30, "return": 1.6}
+      }
+    },
+    "ETH": {
+      "best_window": "1440min",
+      "best_accuracy": 58,
+      "confidence": "medium",
+      "sample_size": 12,
+      "all_windows": {
+        "240min": {"accuracy": null, "return": null},
+        "1440min": {"accuracy": 58, "return": 3.1}
+      }
+    }
+  },
+  "notes": [
+    "BTC: 240分钟窗口准确率71%保持最高，样本14个，高置信度 ✅",
+    "BTC 120分钟窗口准确率60%，可作为辅助验证窗口",
+    "BTC 1440min窗口准确率30% ⚠️ 日线情绪依然不稳定",
+    "ETH: 1440分钟(24h)窗口准确率58%保持稳定，累计收益+3.1%最佳"
+  ]
+}
