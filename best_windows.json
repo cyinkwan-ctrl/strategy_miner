@@ -1,35 +1,46 @@
 {
-  "last_update": "2026-02-14 11:23:00",
+  "last_update": "2026-02-15 14:38:23",
   "recommendations": {
     "BTC": {
-      "best_window": "240min",
-      "best_accuracy": 71,
+      "best_window": "1440min",
+      "best_accuracy": 37,
       "confidence": "high",
-      "sample_size": 14,
+      "sample_size": 92,
       "all_windows": {
-        "15min": {"accuracy": null, "return": null},
-        "30min": {"accuracy": null, "return": null},
-        "60min": {"accuracy": null, "return": null},
-        "120min": {"accuracy": 60, "return": -0.0},
-        "240min": {"accuracy": 71, "return": -0.0},
-        "1440min": {"accuracy": 30, "return": 1.6}
+        "1440min": {"accuracy": 37, "return": 2.4, "samples": 92},
+        "240min": {"accuracy": 36, "return": 0.9, "samples": 32},
+        "120min": {"accuracy": 25, "return": 0.9, "samples": 16},
+        "60min": {"accuracy": 0, "return": 1.1, "samples": 4},
+        "30min": {"accuracy": 0, "return": 1.4, "samples": 3},
+        "15min": {"accuracy": 0, "return": 0.2, "samples": 2}
       }
     },
     "ETH": {
-      "best_window": "1440min",
-      "best_accuracy": 58,
-      "confidence": "medium",
-      "sample_size": 12,
+      "best_window": "60min",
+      "best_accuracy": 100,
+      "confidence": "low",
+      "sample_size": 1,
       "all_windows": {
-        "240min": {"accuracy": null, "return": null},
-        "1440min": {"accuracy": 58, "return": 3.1}
+        "60min": {"accuracy": 100, "return": 1.4, "samples": 1},
+        "120min": {"accuracy": 100, "return": 0.3, "samples": 1},
+        "240min": {"accuracy": 50, "return": 0.3, "samples": 2},
+        "1440min": {"accuracy": 23, "return": 2.2, "samples": 13}
       }
     }
   },
   "notes": [
-    "BTC: 240分钟窗口准确率71%保持最高，样本14个，高置信度 ✅",
-    "BTC 120分钟窗口准确率60%，可作为辅助验证窗口",
-    "BTC 1440min窗口准确率30% ⚠️ 日线情绪依然不稳定",
-    "ETH: 1440分钟(24h)窗口准确率58%保持稳定，累计收益+3.1%最佳"
+    "BTC 24h窗口(37%)成为最佳窗口，样本92个，信心高",
+    "BTC 4h窗口(36%)准确率接近24h，样本32个",
+    "BTC 短周期窗口(15-60min)准确率降至0%，信号暂时失灵",
+    "ETH样本量小(1-2个)，60min/120min窗口100%准确率参考价值有限",
+    "ETH 24h窗口准确率23%，整体情绪信号偏弱",
+    "BTC累计收益：24h窗口 +2.4% 表现最佳"
+  ],
+  "action_items": [
+    "BTC重点关注24h/4h窗口（37%/36%准确率）",
+    "BTC短期窗口（15-60min）暂时避免使用",
+    "ETH需积累更多样本后再做推荐",
+    "BTC整体准确率偏低(25-37%)，建议轻仓操作",
+    "所有窗口收益为正（0.2%~2.4%），方向判断正确率待提升"
   ]
 }
