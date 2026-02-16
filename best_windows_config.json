@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-02-15T20:53:00+08:00",
+  "recommendations": {
+    "BTC": {
+      "best_window": "30min",
+      "accuracy": 0.67,
+      "sample_size": 3,
+      "confidence": "medium",
+      "secondary_window": "60min",
+      "disabled_windows": ["15min"]
+    },
+    "ETH": {
+      "best_window": "1440min",
+      "accuracy": 0.60,
+      "sample_size": 15,
+      "confidence": "medium",
+      "disabled_windows": ["120min", "240min"]
+    }
+  },
+  "overall_metrics": {
+    "total_snapshots": 4,
+    "valid_signals": 18,
+    "average_accuracy": 0.508
+  }
+}

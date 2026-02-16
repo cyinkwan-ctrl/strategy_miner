@@ -1,0 +1,27 @@
+# 最佳交易窗口配置
+# 更新时间: 2026-02-16 15:53
+# 自动生成 by sentiment_validator.py
+
+best_windows:
+  BTC:
+    window: "30min"
+    accuracy: 0.67
+    samples: 3
+    recommendation: "推荐"
+  ETH:
+    window: "60min"
+    accuracy: 1.00
+    samples: 1
+    recommendation: "推荐"
+
+# 验证摘要
+validation_date: "2026-02-16"
+total_snapshots: 11
+reliable_windows:
+  - asset: "BTC"
+    windows: ["30min"]
+  - asset: "ETH"
+    windows: ["60min", "120min", "240min"]
+
+# 建议阈值
+min_accuracy_threshold: 0.50

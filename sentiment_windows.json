@@ -1,0 +1,16 @@
+{
+  "btc": {
+    "best_window": 1440,
+    "accuracy": 0.56,
+    "samples": 99,
+    "recommendation": "24h窗口准确率56%，略高于随机，可作为参考但需配合其他指标"
+  },
+  "eth": {
+    "best_window": 15,
+    "accuracy": 1.0,
+    "samples": 1,
+    "recommendation": "样本量过小(1个)，数据不可靠，建议积累更多样本后再参考"
+  },
+  "updated": "2026-02-16",
+  "note": "建议仅使用准确率>50%且样本量>10的信号"
+}

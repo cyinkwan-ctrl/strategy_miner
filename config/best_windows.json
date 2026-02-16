@@ -1,26 +1,29 @@
 {
-  "last_updated": "2026-02-14T01:08:00+08:00",
+  "last_updated": "2026-02-15T02:08:00+08:00",
   "best_windows": {
     "BTC": {
-      "recommended_window": "30min",
-      "accuracy": 100,
-      "samples": 2,
-      "收益": "+1.9%",
+      "recommended_window": "120min",
+      "accuracy": 80,
+      "samples": 10,
+      "收益": "-1.0%",
       "alternatives": [
-        {"window": "60min", "accuracy": 100, "收益": "+2.1%"},
-        {"window": "1440min", "accuracy": 32, "收益": "+1.1%", "note": "不推荐"}
+        {"window": "240min", "accuracy": 61, "收益": "-1.0%"},
+        {"window": "15min", "accuracy": 50, "收益": "-0.1%"},
+        {"window": "30min", "accuracy": 33, "收益": "+0.1%"},
+        {"window": "1440min", "accuracy": 33, "收益": "+5.3%"},
+        {"window": "60min", "accuracy": 17, "收益": "+0.5%", "note": "不推荐"}
       ]
     },
     "ETH": {
-      "recommended_window": "1440min",
-      "accuracy": 62,
-      "samples": 13,
-      "收益": "+3.5%",
+      "recommended_window": "240min",
+      "accuracy": 80,
+      "samples": 5,
+      "收益": "-0.7%",
       "alternatives": [
-        {"window": "30min", "accuracy": 50, "收益": "+2.1%"},
-        {"window": "60min", "accuracy": 50, "收益": "+2.3%"}
+        {"window": "1440min", "accuracy": 36, "收益": "+7.0%"},
+        {"window": "15min", "accuracy": 0, "收益": "+0.0%", "note": "样本不足"}
       ]
     }
   },
-  "summary": "BTC: 30-60min窗口表现最佳(100%准确率); ETH: 日线窗口最佳(62%准确率,+3.5%收益)"
+  "summary": "BTC: 120min窗口最优(80%, 样本10) - 显著提升；ETH: 240min窗口最优(80%, 样本5)；中长周期(2-4h)情绪信号更可靠，短周期信号需谨慎"
 }
