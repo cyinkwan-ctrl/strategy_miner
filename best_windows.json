@@ -1,45 +1,57 @@
 {
-  "last_update": "2026-02-16 17:38:00",
+  "last_update": "2026-02-17 00:08:06",
+  "validation_round": 16,
   "recommendations": {
     "BTC": {
       "best_window": "1440min",
-      "best_accuracy": 59,
-      "confidence": "medium",
-      "sample_size": 100,
+      "best_accuracy": 53,
+      "confidence": "high",
+      "sample_size": 106,
+      "trend": "stable (53% → 53%)",
       "all_windows": {
-        "15min": {"accuracy": 0, "return": 0.3, "samples": 1},
-        "30min": {"accuracy": 0, "return": 0.9, "samples": 1},
-        "60min": {"accuracy": 0, "return": 0.2, "samples": 1},
-        "120min": {"accuracy": 33, "return": 0.8, "samples": 3},
-        "240min": {"accuracy": 45, "return": 0.8, "samples": 11},
-        "1440min": {"accuracy": 59, "return": -1.2, "samples": 100}
+        "15min": {"accuracy": 50, "return": -0.9, "samples": 2},
+        "30min": {"accuracy": 33, "return": -2.9, "samples": 3},
+        "60min": {"accuracy": 17, "return": -1.5, "samples": 6},
+        "120min": {"accuracy": 22, "return": -1.5, "samples": 9},
+        "240min": {"accuracy": 33, "return": -1.5, "samples": 12},
+        "1440min": {"accuracy": 53, "return": -3.0, "samples": 106}
       }
     },
     "ETH": {
-      "best_window": "120min",
+      "best_window": "60min",
       "best_accuracy": 100,
-      "confidence": "low",
+      "confidence": "very_low",
       "sample_size": 1,
+      "trend": "stable",
       "all_windows": {
-        "120min": {"accuracy": 100, "return": 1.6, "samples": 1},
-        "240min": {"accuracy": 100, "return": 1.6, "samples": 1},
-        "1440min": {"accuracy": 50, "return": -4.6, "samples": 2}
+        "15min": {"accuracy": 0, "return": 0, "samples": 0},
+        "30min": {"accuracy": 0, "return": 0, "samples": 0},
+        "60min": {"accuracy": 100, "return": -0.1, "samples": 1},
+        "120min": {"accuracy": 100, "return": -0.1, "samples": 1},
+        "240min": {"accuracy": 100, "return": -0.1, "samples": 1},
+        "1440min": {"accuracy": 53, "return": -5.4, "samples": 2}
       }
     }
   },
   "notes": [
-    "2026-02-16 17:38 更新 - BTC样本100-2, ETH样本1",
-    "BTC: 1440min窗口(59%)成为最佳选择，样本量充足",
-    "BTC: 240min窗口(45%)保持次优位置",
-    "BTC: 短周期窗口(15min/30min/60min)样本极少，暂不可靠",
-    "ETH: 120min/240min窗口准确率100%但样本仅1个，需谨慎",
-    "ETH: 1440min窗口(50%)显示方向可能相反",
-    "BTC长周期收益为负(-1.2%)，短周期收益为正但样本少"
+    "2026-02-17 00:08 第16轮验证 - BTC样本106个，ETH样本仅1个",
+    "BTC: 1440min窗口(53%)保持稳定，短周期样本持续积累",
+    "BTC: 60min窗口准确率降至17%，收益为负(-1.5%)",
+    "BTC: 15min窗口首次出现50%准确率，但样本仅2个",
+    "BTC: 240min窗口(33%)和120min窗口(22%)略有波动",
+    "ETH: 样本量严重不足(仅1个)，任何结论都不可靠",
+    "注意: 所有窗口收益都为负，情绪信号可能反向"
   ],
   "action_items": [
-    "BTC首选1440min窗口(59%)，样本充足",
-    "BTC短周期信号样本少，避免依赖15min/30min/60min",
-    "ETH窗口数据不足，需积累更多样本后再决策",
-    "BTC长周期情绪信号与收益方向相反，考虑反向策略"
+    "BTC首选1440min窗口(53%)，样本充足，稳定可靠",
+    "BTC短周期信号收益持续为负，避免使用60min/120min/240min",
+    "BTC短周期样本正在缓慢积累，再观察2-3轮验证",
+    "ETH继续积累样本，至少需要10+样本才能做判断",
+    "⚠️ 考虑BTC情绪信号反向操作的可能性"
+  ],
+  "warnings": [
+    "所有时间窗口收益都为负，可能需要反向跟随信号",
+    "ETH样本量严重不足，完全无法支撑决策",
+    "BTC短周期信号噪音大，建议观望"
   ]
 }

@@ -23903,6 +23903,1806 @@
       "total_count": 1,
       "recorded_at": "2026-02-16T19:23:24.170863",
       "snapshot_time": 1771241004.170586
+    },
+    {
+      "id": "dMOLadpx-GBPUSD-Outlook-Pound-Bulls-Targeting-1-3670-Resistance",
+      "asset": "GBPUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216356",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "ehNSscrI-Gold",
+      "asset": "XAU",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T19:38:07.216398",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "7E0jyrWr-CADJPY-XXXJPY-Pairs-Possible-in-LONG-Position",
+      "asset": "CADJPY",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216412",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "yoRpirVV-EURUSD-Analysis-Bullish-Momentum-Eyes-1-1885-Target",
+      "asset": "EURUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216422",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "fTZjEZEs-SOLUSD-4H-Breakout-Levels-Structure",
+      "asset": "SOLUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216433",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "qJbTr42e-Crude-Oil-Intraday-Analysis-Correction-Underway-Toward-60",
+      "asset": "WTI",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216443",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "7iNO1119-USOIL-Strategy-Crucial-Battle-at-the-63-30-Pivot-Level",
+      "asset": "USOIL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216453",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "Ibey5LnT-Amazon-Inc-AMZN-Monthly",
+      "asset": "AMZN",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216464",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "SvKRg14r-LTCUSD-bear-flag",
+      "asset": "LTCUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216474",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "B5PtFBXc-XAGUSD-Strategy-Can-Silver-Hold-the-77-50-Resistance",
+      "asset": "SILVER",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216484",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "cOE4fs7I-Triangle-on-USDJPY-H4",
+      "asset": "USDJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216493",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "5lasq7eS-AUDUSD-Possible-Short-Position",
+      "asset": "AUDUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:38:07.216502",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "4c8YnxY3-Down-move-incoming",
+      "asset": "OTHER",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T19:38:07.216511",
+      "snapshot_time": 1771241887.216344
+    },
+    {
+      "id": "zu3X1l05-GBPAUD-Possible-Long-Position",
+      "asset": "GBPAUD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:53:05.948360",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "1Vhq6aJi-Gold-next-move-weekly-forecast-16th-Feb-20th-Feb-2026",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T19:53:05.948400",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "FunGTT3Y-BTCUSD-Sell-Idea-RR-1-3-5",
+      "asset": "BTC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T19:53:05.948415",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "Bkq5OsCH-Apple-Inc-AAPL-Daily-2-Scenarios",
+      "asset": "AAPL",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:53:05.948428",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "PsDaY2r3-EUR-USD-Bearish-SMC-Setup-CHoCH-Supply-Tap-at-Strong-High",
+      "asset": "EURUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T19:53:05.948439",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "90kRxaku-NVDA-1H-The-Calm-Before-Expansion",
+      "asset": "NVDA",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:53:05.948450",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "wJGR13ob-EURAUD-Possible-Long-Position",
+      "asset": "EURAUD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T19:53:05.948462",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "Eah1aPCa-ONDO-Is-About-to-Explode-Don-t-Miss-This-Setup-12H",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T19:53:05.948472",
+      "snapshot_time": 1771242785.948349
+    },
+    {
+      "id": "DB1n0Bob-ZAMA-USDC-Potential-Trend-Shift-Upside-Scenario",
+      "asset": "ZAMAUSDC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320141",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "LL7kuLN4-FETCH-AI-Bullish-Momentum-Expected-Above-0-20-Weekly-Close",
+      "asset": "FETUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320182",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "32CAOaYV-Beginner-Guide-How-to-Read-EMAs-on-the-Sentinel-Core-15m",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.75,
+      "total_count": 4,
+      "recorded_at": "2026-02-16T20:08:06.320195",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "MekWlljK-Brent-Crude-Oil-BCOUSD-emerges-as-a-critical-commodity",
+      "asset": "BCOUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320206",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "Omampebh-USDCAD-breakout-setup-to-1-3790",
+      "asset": "USDCAD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320215",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "eZgNUrsf-great-opportunity-to-buy-an-hold",
+      "asset": "SOLUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320225",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "V7abUu6w-Bitcoin-SV-BSV-Waiting-For-Clarity-Breakdown-or-BOS",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6666666666666666,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T20:08:06.320234",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "6So7RCng-USDJPY-LONG-VIEW",
+      "asset": "USDJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T20:08:06.320244",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "yUNDKiFN-Five-star-bussiness-long",
+      "asset": "FIVESTAR",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320254",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "DJwqEyjZ-long-term-purchase-opportunity",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T20:08:06.320263",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "7HVbIkZW-GBP-USD-Bullish-Reversal-Liquidity-Sweep-CHoCH-at-Demand",
+      "asset": "GBPUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:08:06.320272",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "e0KIF2oS-E-U-upward",
+      "asset": "EURUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T20:08:06.320282",
+      "snapshot_time": 1771243686.32013
+    },
+    {
+      "id": "aoYcgSm0-BTC-Analysis-Whats-Going-On-Right-Now-FOLLOW-FOR-MORE-UPDATES",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T20:23:05.914712",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "qR52YwgT-Rivian-Shares-Spike-26-As-It-Predicts-Big-Jump-in-Sales",
+      "asset": "RIVN",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914756",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "xTL9AwOk-CHR-USDT-READY-TO-NEW-EXPLODE",
+      "asset": "CHRUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914770",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "JbfRRWl6-cmc-info-long",
+      "asset": "CMSINFO",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914782",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "q4jknmhZ-AMZN-H1-Bearish-Continuation-Scenario-in-Focus",
+      "asset": "AMZN",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914793",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "uH7Bp2PZ-XAUUSD-H2",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.75,
+      "total_count": 4,
+      "recorded_at": "2026-02-16T20:23:05.914804",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "IbKyyZBm-DXY-Technical-Strength-Fundamental-Uncertainty",
+      "asset": "DXY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914814",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "2y45wXVH-embassey-development-long",
+      "asset": "EMBDL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914824",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "a4AKSuHr-BERAUSDT-Short-under-0-6314",
+      "asset": "OTHER",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914834",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "a0WnKQam-USDJPY-BUY-CORRECTION",
+      "asset": "USDJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:23:05.914844",
+      "snapshot_time": 1771244585.914698
+    },
+    {
+      "id": "5K48Uf4d-ORCL-FEB-2026",
+      "asset": "ORCL",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685317",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "fuap9tND-usoil",
+      "asset": "USOIL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685354",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "PFoigfsy-sanatan-textile-long",
+      "asset": "SANATHAN",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685367",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "diwd9yaD-Excellent-Profits-on-re-Buy-orders",
+      "asset": "XAU",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T20:38:06.685378",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "VxbK97xE-NZD-USD-Bullish-Reversal-Toward-0-60581-and-0-60729",
+      "asset": "NZDUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685388",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "SztS1Sce-CMG-Bearish-Structure-Developing-Under-Descending-Resistance",
+      "asset": "CMG",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685398",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "vGJ5WwKR-USD-JPY-Short-term-Intraday-Buy",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685407",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "AN2bsTCo-What-Are-Order-Blocks-and-Why-They-Matter-Complete-SMC-Guide",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T20:38:06.685416",
+      "snapshot_time": 1771245486.6853068
+    },
+    {
+      "id": "14Ymvn4J-pa-for-ny-open",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 5,
+      "recorded_at": "2026-02-16T21:08:06.356220",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "Kz0aFcwy-Gold-Make-or-Break-Level-Big-Move-Coming-read-caption",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T21:08:06.356259",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "R1kxFJBo-Bitcoin-is-in-a-RANGE-trade-it-until-it-breaks",
+      "asset": "BTC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.25,
+      "total_count": 4,
+      "recorded_at": "2026-02-16T21:08:06.356273",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "Weoacdg6-Silver-sideways-consolidation-supported-at-7350",
+      "asset": "XAG",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356284",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "BTSUaWbL-Dam-capital-advisor-Long",
+      "asset": "DAMCAPITAL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356294",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "GBy5YjxR-XRP-PERPETUAL-TRADE-SELL-SETUP-Short-from-1-5030",
+      "asset": "XRPUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356304",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "acqNrcev-XCN-Potential-Cup-and-Handle-Reversal",
+      "asset": "XCNUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356314",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "VbJwkHOS-acme-Solar-retest-done-long",
+      "asset": "ACMESOLAR",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356324",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "rpXNMEBV-GBP-JPY-Still-Very-Bearish-New-Chance-To-Get-200-Pips",
+      "asset": "GBPJPY",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356334",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "hzqAHxRC-Nbis-short-term-Bullish",
+      "asset": "NBIS",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356344",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "UT4ezRM4-Coiled-Spring-or-Trap",
+      "asset": "SOLUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356354",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "UCSP2pa5-ORCL-ORDERS-FEB-2026",
+      "asset": "ORCL",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356363",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "g8z0AuVC-AAPL-H4-Pullback-Within-Larger-Impulsive-Structure",
+      "asset": "AAPL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356372",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "QrQrP6Jd-Apollo-Hospitals-Enterprise",
+      "asset": "APOLLOHOSP",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:08:06.356381",
+      "snapshot_time": 1771247286.356211
+    },
+    {
+      "id": "iZ8lcTSG-BITCOIN-The-1W-EMA200-candle-closing-is-now-the-key",
+      "asset": "BTC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 4,
+      "recorded_at": "2026-02-16T21:23:06.377236",
+      "snapshot_time": 1771248186.377227
+    },
+    {
+      "id": "rVo6oBp3-US-FUTURES-STEADY-IN-HOLIDAY-TRADE-KEY-LEVELS-AT-6872",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 8,
+      "recorded_at": "2026-02-16T21:23:06.377275",
+      "snapshot_time": 1771248186.377227
+    },
+    {
+      "id": "mE44ssus-INITUSDT-Forming-Falling-Wedge",
+      "asset": "INITUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:23:06.377287",
+      "snapshot_time": 1771248186.377227
+    },
+    {
+      "id": "eqPn6byK-happiest-mind-long",
+      "asset": "HAPPSTMNDS",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:23:06.377298",
+      "snapshot_time": 1771248186.377227
+    },
+    {
+      "id": "8R7YV2YN-MUBARAKUSDT-Forming-Descending-Channel",
+      "asset": "MUBARAKUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:23:06.377308",
+      "snapshot_time": 1771248186.377227
+    },
+    {
+      "id": "qCczIPJ3-Gold-oversold-bounce-supported-at-4-517",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:23:06.377318",
+      "snapshot_time": 1771248186.377227
+    },
+    {
+      "id": "yS032at5-NZDJPY-Buy",
+      "asset": "NZDJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:38:07.342054",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "7dD9ARpa-Morning-Forecast-Monday-Feb-16th",
+      "asset": "USOIL",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:38:07.342093",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "lLLen94d-Gold-Trade-Set-Up-Feb-16-2026",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 6,
+      "recorded_at": "2026-02-16T21:38:07.342107",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "nI1NpkOJ-savita-long",
+      "asset": "SOTL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:38:07.342117",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "NpxGvCh8-BULLISH-SCENARIO-USDCHF",
+      "asset": "USDCHF",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:38:07.342127",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "lHdumXyU-USNAS100-HOLDS-ABOVE-PIVOT-24785-HOLIDAY-LIQUIDITY-IN-FOCUS",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 8,
+      "recorded_at": "2026-02-16T21:38:07.342137",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "fgPadCgd-Holiday-or-not-still-a-EUR-USD-Bear",
+      "asset": "EURUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:38:07.342146",
+      "snapshot_time": 1771249087.3420448
+    },
+    {
+      "id": "Pee2ZlTj-ASML-Moderate-Bull-With-Squeeze-Fired",
+      "asset": "ASML",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096677",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "rQgWt7O1-Bitcoin-BTC-price-analysis",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.7142857142857143,
+      "total_count": 7,
+      "recorded_at": "2026-02-16T21:53:06.096720",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "Mn1mIXRh-Apple-local-analysis-one-more-push-lower",
+      "asset": "AAPL",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T21:53:06.096735",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "L4AG36pV-Brent-Oil-Coiling-Below-Resistance-Preparing-for-a-Breakout",
+      "asset": "BRENT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096747",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "HgqifA20-Sell-USDCHF",
+      "asset": "USDCHF",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096759",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "nrgwd2Rd-Ethereum-ETHUSDT-D1-Triangle-Formation",
+      "asset": "ETH",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096770",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "sSaJ72BS-XRP-Defends-1-58-as-Failed-Auction-Signals-Upside-Potential",
+      "asset": "XRPUSDT",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096780",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "XC5d55fu-Higher-Timeframe-Map-to-Intraday-Execution",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096789",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "VPWqGGKf-Bearish-Rejection-at-Resistance",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 4,
+      "recorded_at": "2026-02-16T21:53:06.096799",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "5AdnX7Zi-WMT-Deep-Bullish-With-Strong-Breakout",
+      "asset": "WMT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T21:53:06.096809",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "P2FmLAJk-Sagar-cement-long",
+      "asset": "SAGCEM",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096819",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "elQC2Al0-AVGO-Deep-Bearish-Structure-With-No-Volume-Support",
+      "asset": "AVGO",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096829",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "j2uXlcWk-AUDJPY-Buys",
+      "asset": "AUDJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096839",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "1EccE5g1-KOHC",
+      "asset": "KOHC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T21:53:06.096848",
+      "snapshot_time": 1771249986.096666
+    },
+    {
+      "id": "eXAmqBr3-NZDUSD-resistance-retest-at-0-6066",
+      "asset": "NZDUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.925941",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "KlohACBr-USDCHF-Bearish-coiling-price-pattern-capped-at-0-7835",
+      "asset": "USDCHF",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:08:05.925980",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "ugqCpVhZ-GBPJPY-Moderate-Bear-at-Demand-But-Volume-Has-Vanished",
+      "asset": "GBPJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.925995",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "KeHsV9KW-Nikkei-moves-in-a-strong-momentum",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:08:05.926006",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "RN8iTWfs-XAU-USD-Rejection-at-5-115-Supply-The-Slide-to-Discount-Support",
+      "asset": "XAU",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:08:05.926017",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "lJk0NfOV-Silver-Shows-Bullish-Recovery-Toward-90-5-After-Strong-Supports",
+      "asset": "XAG",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926027",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "8JPdYZbI-PLTR-ORDER-FEB-2026",
+      "asset": "PLTR",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:08:05.926036",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "saCoRvJz-RIOT-stronger-than-most-miners",
+      "asset": "RIOT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926045",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "6ZH1fCjh-GBPUSD-Moderate-Bear",
+      "asset": "GBPUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926054",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "dlOu24Vz-EURUSD",
+      "asset": "EURUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:08:05.926064",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "9PoqbqCt-MSTR-trying-to-reverse-at-support",
+      "asset": "MSTR",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926073",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "OjAH2DJK-USDJPY-30Min-Engaged-Bearish-Entry-Detected",
+      "asset": "USDJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926083",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "NhGo3C1x-MARA-bottoming-soon-Major-support-area",
+      "asset": "MARA",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926092",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "FLHD1jW1-EJ-GRABBING-LIQUIDITY",
+      "asset": "EURJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926102",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "WsIUa7gw-IREN-one-more-push-lower-still-to-come-27-target",
+      "asset": "IREN",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926111",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "nFDUCeuD-DXY-Bearish-Continuation-Toward-95-5-With-97-9-Stop-Loss",
+      "asset": "DXY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926121",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "QSsBiLYt-Google-finally-ready-for-wave-4-pullback",
+      "asset": "GOOGL",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926131",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "v6u6De3v-COIN-continues-bearishly-reversal-soon",
+      "asset": "COIN",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926140",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "cLUjsu2Y-LMT-is-a-medium-term-opportunity-for-a-momentum-trade",
+      "asset": "LMT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926150",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "OXFAEqOz-iex-long",
+      "asset": "IEX",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926159",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "sxv4GozB-CIFR-triangle-finished-whats-next",
+      "asset": "CIFR",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:08:05.926168",
+      "snapshot_time": 1771250885.925931
+    },
+    {
+      "id": "2P7wdmJo-NZDCAD-What-Next-SELL",
+      "asset": "NZDCAD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.221951",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "cJAVW17A-ETHUSD-1H-SETUP",
+      "asset": "ETH",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.221991",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "Z9Sd5VYf-EURCAD-Scalp",
+      "asset": "EURCAD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222005",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "b4b1XZik-UPDATE-XAUUSD",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 6,
+      "recorded_at": "2026-02-16T22:23:07.222016",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "BTOckVqr-ZECUSDT-Flat-Bias-With-507x-Futures-Manipulation",
+      "asset": "ZECUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222026",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "ah8sgSQ3-BUY-XAG-USD",
+      "asset": "XAG",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222036",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "qUjtlV6t-AGIIL-1D-Long-Volumes",
+      "asset": "AGIIL",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222046",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "3tVOysMb-XAUEUR-30M-Setup",
+      "asset": "XAUEUR",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222056",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "sOn0KfRe-SIRENUSDT-Massive-62-8-Bounce",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:23:07.222066",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "4Z5bE92e-AUDUSD-bullish-continuation-resistance-at-0-7100",
+      "asset": "AUDUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222076",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "UXhWRuhm-20Ma",
+      "asset": "XRPUSD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222085",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "33jypyLX-GBPJPY-Pullback-Into-Resistance-Preparation-Phase",
+      "asset": "GBPJPY",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:07.222095",
+      "snapshot_time": 1771251787.22194
+    },
+    {
+      "id": "1IHInFhE-GOLD-Massive-Long-BUY",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.4,
+      "total_count": 5,
+      "recorded_at": "2026-02-16T22:23:24.566641",
+      "snapshot_time": 1771251804.5666308
+    },
+    {
+      "id": "hs29Ic7c-Nifty",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:23:24.566679",
+      "snapshot_time": 1771251804.5666308
+    },
+    {
+      "id": "IPTcvozD-MY-DXY-LONG-FORECAST-Q1-FY26",
+      "asset": "DXY",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865109",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "r3ke1Eyv-EURGBP-Bullish-Forecast-Outlook",
+      "asset": "EURGBP",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865150",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "GTvqGK0O-SPX-Bullish",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6666666666666666,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T22:38:08.865164",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "mbKYCouz-Amazon-Inc-AMZN-Weekly-3-Scenarios",
+      "asset": "AMZN",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865176",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "j6bcCp37-GOLD-Is-Bearish-Sell",
+      "asset": "XAU",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:38:08.865188",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "9ve1Gofy-LINKUSDT-Tight-Bull-Trapped",
+      "asset": "LINKUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865199",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "VCFKRjpd-EURUSD-Long-Signal-with-Entry-SL-TP",
+      "asset": "EURUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:38:08.865209",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "emv5xRHA-GBPCHF-to-climb",
+      "asset": "GBPCHF",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865219",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "tWH1GJlA-BTCUSD-1H-SETUP",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6666666666666666,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T22:38:08.865228",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "QuZa8lsw-TAOUSDT-Strong-Bear",
+      "asset": "TAOUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865238",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "y8Xjn3Qb-CRM-FEB-2026",
+      "asset": "CRM",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865248",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "1C0opSAk-NZD-USD-BEARISH-BIAS-RIGHT-NOW-SHORT",
+      "asset": "NZDUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865257",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "mTgdROZs-Long-on-CMB-TECH-NV",
+      "asset": "CMBT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865266",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "COjc0tQH-AUDUSD-LONG-VIEWS",
+      "asset": "AUDUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865275",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "TfbgIm6y-SILVER-BEST-PLACE-TO-SELL-FROM-SHORT",
+      "asset": "XAG",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865285",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "SB8YRElQ-GBPCAD-Sell-Trade-Idea",
+      "asset": "GBPCAD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865294",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "dynB05r9-CADJPY-LONG",
+      "asset": "CADJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865303",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "JnG7smP9-Review-and-plan-for-17th-February-2026",
+      "asset": "HINDALCO",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:38:08.865313",
+      "snapshot_time": 1771252688.865097
+    },
+    {
+      "id": "SGn4J2OO-Reading-Price-Control-Using-the-Reference-Candle",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6,
+      "total_count": 5,
+      "recorded_at": "2026-02-16T22:53:06.028002",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "zSXRi5Le-The-Power-of-a-Conservative-Entry",
+      "asset": "NIFTY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028041",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "hHKFJHOH-GBPCAD-Long-Idea",
+      "asset": "GBPCAD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028055",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "l6a9Zt5a-CRM-ORDERS-FEB-2026",
+      "asset": "CRM",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028066",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "Pf5yVNL6-AUDUSD-Will-Move-Lower-Short",
+      "asset": "AUDUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028076",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "T9oOa4rO-ETH",
+      "asset": "ETH",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028087",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "JM6JvxAu-ETH-expectation-1-week",
+      "asset": "OTHER",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T22:53:06.028096",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "22Ktu2H8-EURUSD-Daily",
+      "asset": "EURUSD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028106",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "AO1QepeX-1D-Longer-BTC-Update-w-thoughts",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T22:53:06.028116",
+      "snapshot_time": 1771253586.027991
+    },
+    {
+      "id": "vrTPDoNE-Gold-Rejects-Supply-Zone-Bearish-Continuation-Toward-4880",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 6,
+      "recorded_at": "2026-02-16T23:08:08.046752",
+      "snapshot_time": 1771254488.046742
+    },
+    {
+      "id": "9dprB09a-usdzar-buy",
+      "asset": "USDZAR",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:08:08.046796",
+      "snapshot_time": 1771254488.046742
+    },
+    {
+      "id": "gz1weoWt-Bitcoin-BTC-USD-1H-Chart-Analysis-Bullish-Continuation-Setup",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6666666666666666,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T23:08:08.046811",
+      "snapshot_time": 1771254488.046742
+    },
+    {
+      "id": "YQZac55Q-SI-Week-8-1hr-chart",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:23:06.837310",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "WJZHqPLl-Xagusd",
+      "asset": "XAG",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:23:06.837347",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "6zOQfh0b-USDJPY-Range-Compression-Breakdown-Setup-Toward-152",
+      "asset": "USDJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T23:23:06.837361",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "nADwuO6b-DeGRAM-EURUSD-in-a-descending-channel",
+      "asset": "EURUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:23:06.837372",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "kGT1opzM-GBPJPY-Bearish-Channel-Rejection-Points-Toward-207",
+      "asset": "GBPJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:23:06.837382",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "TkhdRvlR-WATCHOUT-ENGINEERS-INDIA-LTD-BREAKING-OUT-OF-TRIANGLE",
+      "asset": "ENGINERSIN",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:23:06.837392",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "elc2Z58w-ZEC-USDT-ZEC-Explodes-34-Next-Stop-360",
+      "asset": "ZECUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:23:06.837402",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "TCFCnC2h-BTC-Supply-and-Demand-Zones-for-Next-Leg",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T23:23:06.837411",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "YAm6Yf4C-Bearish-Rejection-from-Supply-Zone-Downside-Target-in-Focus",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6,
+      "total_count": 5,
+      "recorded_at": "2026-02-16T23:23:06.837420",
+      "snapshot_time": 1771255386.837301
+    },
+    {
+      "id": "WYMTBDdd-USD-JPY-Pullback-Short-at-155-04-Volume-Profile-Zone",
+      "asset": "USDJPY",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T23:38:10.842656",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "JIPh8HMp-AMOC-is-showing-very-strong-volume",
+      "asset": "AMOC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842698",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "8R5e9bYK-DeGRAM-GOLD-is-under-the-resistance-area",
+      "asset": "XAU",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842713",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "99OlhaxG-RYDER-Multiple-Bullish-Signals-in-Play",
+      "asset": "R",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842725",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "Kn4QqtG6-State-of-the-Megaphone",
+      "asset": "OTHER",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T23:38:10.842739",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "CbBd55ON-USD-CAD-Pullback-Setup-Two-Strong-Support-Levels",
+      "asset": "USDCAD",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842750",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "FcbAhGrG-MFPC-broke-the-channel-formed-since-last-June",
+      "asset": "MFPC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842760",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "VHPnU9dR-Bitcoin-is-in-the-clutches-of-the-Bears",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842769",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "3u9WXw6U-Update-Silver-SLV-I-still-expect-a-move-toward-100-in-th",
+      "asset": "SILVER",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842779",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "Z2dOe8cP-VIX-Coiling-in-Multi-Year-Triangle-Volatility-Expansion-Setup",
+      "asset": "VIX",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842789",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "gWLEHaaB-DeGRAM-XRPUSD-fixed-above-the-1-4",
+      "asset": "XRPUSDT",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842798",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "rFtDdZGd-WTI-Analysis-today",
+      "asset": "WTI",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842807",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "Nao6ziwQ-Amazon-Inc-AMZN-Daily-H4-2-Scenarios",
+      "asset": "AMZN",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842817",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "g514bwn5-Palo-Alto-Networks-stands-at-the-forefront-of-AI-cybersecurity",
+      "asset": "PANW",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842827",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "1gjHreKQ-EUR-USD-EURUSD-Reacts-Perfectly-From-Supply-First-Target-Hit",
+      "asset": "EURUSD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:38:10.842837",
+      "snapshot_time": 1771256290.842645
+    },
+    {
+      "id": "hdGWeLYl-Us30",
+      "asset": "OTHER",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.5,
+      "total_count": 4,
+      "recorded_at": "2026-02-16T23:53:37.175990",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "9AwiITPK-Buy-eurnzd",
+      "asset": "GBPAUD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176036",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "PxGCY90u-Bearish-bias-on-AUDNZD",
+      "asset": "AUDNZD",
+      "sentiment": "bearish",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176059",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "SHmPhEJg-BITCOIN-MACRO-UPDATE-LIFE-CYCLE-STRUCTURE-PRICE-LEVELS",
+      "asset": "BTC",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176078",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "BWkrHQBw-XAUUSD-Bullish-Continuation",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 2,
+      "recorded_at": "2026-02-16T23:53:37.176097",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "T2wKGHye-Buy-euraud",
+      "asset": "EURAUD",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176118",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "nk9QtBAI-USD-CHF-Buyer-Rejection-Zone-at-0-7638",
+      "asset": "USDCHF",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176134",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "LSwc6Pfi-ORWE-broke-the-important-24-resistance-with-strong-volume",
+      "asset": "ORWE",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176145",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "F7ErGuiS-NEXO-rally-or-correction-key-levels-to-watch-for-today",
+      "asset": "NEXOUSDT",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176155",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "vCy8AzU7-USDJPY-Trade-Setup-1H",
+      "asset": "USDJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:37.176164",
+      "snapshot_time": 1771257217.1759539
+    },
+    {
+      "id": "0kwAw7ng-GC-Feb-2026-1hr-chart",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6666666666666666,
+      "total_count": 3,
+      "recorded_at": "2026-02-16T23:53:41.495036",
+      "snapshot_time": 1771257221.4950259
+    },
+    {
+      "id": "cQ6iWAZh-16-FEB-2026-XAUUSD-BUY-SETUP",
+      "asset": "XAU",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-16T23:53:41.495075",
+      "snapshot_time": 1771257221.4950259
+    },
+    {
+      "id": "4ZGYghxL-Bitcoin-Consolidation-failing-to-sustain-momentum",
+      "asset": "BTC",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 3,
+      "recorded_at": "2026-02-17T00:08:07.518411",
+      "snapshot_time": 1771258087.5184
+    },
+    {
+      "id": "uSZdd823-AER-Ascending-Channel-MACD-Signal-Point-to-Further-Upside",
+      "asset": "AER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-17T00:08:07.518453",
+      "snapshot_time": 1771258087.5184
+    },
+    {
+      "id": "kd17qTEp-XAUUSD-15M-Bearish-Channel-Breakdown-Targeting-4-950-Liquidity",
+      "asset": "XAU",
+      "sentiment": "neutral",
+      "bullish_ratio": 0.3333333333333333,
+      "total_count": 3,
+      "recorded_at": "2026-02-17T00:08:07.518466",
+      "snapshot_time": 1771258087.5184
+    },
+    {
+      "id": "jNfQH9hH-QQQ-Weekly-Outlook-Week-7-of-2026-16-20-FEB",
+      "asset": "QQQ",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-17T00:08:07.518476",
+      "snapshot_time": 1771258087.5184
+    },
+    {
+      "id": "hjH3Pp5s-NQ-Week-8-1hr-chart",
+      "asset": "OTHER",
+      "sentiment": "bullish",
+      "bullish_ratio": 0.6666666666666666,
+      "total_count": 3,
+      "recorded_at": "2026-02-17T00:08:07.518486",
+      "snapshot_time": 1771258087.5184
+    },
+    {
+      "id": "dXIxnOhk-Buy-eurjpy",
+      "asset": "EURJPY",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-17T00:08:07.518495",
+      "snapshot_time": 1771258087.5184
+    },
+    {
+      "id": "KZYEipr8-SILVER-THE-NEW-GOLD",
+      "asset": "SILVER",
+      "sentiment": "bullish",
+      "bullish_ratio": 1.0,
+      "total_count": 1,
+      "recorded_at": "2026-02-17T00:08:07.518503",
+      "snapshot_time": 1771258087.5184
     }
   ],
   "validations": [
@@ -45411,6 +47211,1294 @@
       "accuracy": 0.47058823529411764,
       "correlation": 0.0,
       "validated_at": "2026-02-16T19:23:32.589071"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382713"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382738"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382744"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.3,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382750"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.42857142857142855,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382756"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382761"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.57,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382766"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:38:11.382771"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343628"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343651"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.25,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343657"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.2727272727272727,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343662"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.38095238095238093,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343668"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343673"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5742574257425742,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343678"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T19:53:10.343683"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673628"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.6666666666666666,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673651"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673657"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.36363636363636365,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673662"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.4090909090909091,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673667"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673672"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5643564356435643,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673678"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:08:10.673683"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224470"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.6666666666666666,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224492"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.6,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224498"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.45454545454545453,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224504"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.4090909090909091,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224509"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224515"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5588235294117647,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224520"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:23:10.224525"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123860"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123884"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.8,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123891"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.6,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123897"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.45454545454545453,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123903"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123908"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5533980582524272,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123913"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T20:38:11.123918"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675068"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675090"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.6,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675097"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.5555555555555556,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675102"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.42857142857142855,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675107"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.4423076923076923,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675113"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:08:10.675118"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.134976"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.135006"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.6,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.135018"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.4444444444444444,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.135028"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.38095238095238093,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.135038"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5619047619047619,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.135048"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:23:11.135057"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294751"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294775"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294782"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294787"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.6190476190476191,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294793"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5673076923076923,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294798"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.47058823529411764,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:38:12.294803"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992170"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992192"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992199"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992204"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992210"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992219"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.4444444444444444,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992230"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992240"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.6,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992250"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992260"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5619047619047619,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992270"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T21:53:10.992279"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.115984"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116006"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116012"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116017"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.6666666666666666,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116022"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116027"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.375,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116032"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116037"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.631578947368421,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116042"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116047"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5576923076923077,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116052"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:08:11.116057"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828406"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828428"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828434"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.6666666666666666,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828440"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828445"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.625,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828450"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828455"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.3684210526315789,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828460"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828465"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5631067961165048,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828471"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:11.828476"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410439"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410467"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410480"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.6666666666666666,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410491"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410501"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.5714285714285714,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410512"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410522"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.3684210526315789,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410532"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410543"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5631067961165048,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410553"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:23:29.410563"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963539"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963561"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963566"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963572"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.3333333333333333,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963576"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963582"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.375,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963586"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963591"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.5555555555555556,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963596"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963601"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5631067961165048,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963606"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:38:13.963611"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129893"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129915"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129922"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129927"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129932"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129938"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.25,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129943"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129948"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129953"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129958"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.55,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129963"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5533980582524272,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T22:53:12.129968"
+    },
+    {
+      "asset": "ETH",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.054966"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055000"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055013"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055025"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055035"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055046"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.25,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055057"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055067"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.47368421052631576,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055077"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055088"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.55,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055099"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5480769230769231,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:08:13.055110"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754063"
+    },
+    {
+      "asset": "ETH",
+      "window": 30,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754086"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754093"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754099"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754104"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.25,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754109"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754115"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.42105263157894735,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754120"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754125"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5428571428571428,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754130"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:23:11.754135"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709282"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709305"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709311"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709317"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.25,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709322"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709327"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.3333333333333333,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709332"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709337"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5333333333333333,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709342"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:38:15.709347"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040112"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040135"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040141"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040147"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.2222222222222222,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040152"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040157"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.2777777777777778,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040163"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040168"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5238095238095238,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040173"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-16T23:53:47.040178"
+    },
+    {
+      "asset": "BTC",
+      "window": 15,
+      "accuracy": 0.5,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605049"
+    },
+    {
+      "asset": "BTC",
+      "window": 30,
+      "accuracy": 0.3333333333333333,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605077"
+    },
+    {
+      "asset": "ETH",
+      "window": 60,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605088"
+    },
+    {
+      "asset": "BTC",
+      "window": 60,
+      "accuracy": 0.16666666666666666,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605097"
+    },
+    {
+      "asset": "BTC",
+      "window": 120,
+      "accuracy": 0.2222222222222222,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605107"
+    },
+    {
+      "asset": "ETH",
+      "window": 120,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605116"
+    },
+    {
+      "asset": "BTC",
+      "window": 240,
+      "accuracy": 0.3333333333333333,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605124"
+    },
+    {
+      "asset": "ETH",
+      "window": 240,
+      "accuracy": 1.0,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605133"
+    },
+    {
+      "asset": "BTC",
+      "window": 1440,
+      "accuracy": 0.5283018867924528,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605142"
+    },
+    {
+      "asset": "ETH",
+      "window": 1440,
+      "accuracy": 0.5263157894736842,
+      "correlation": 0.0,
+      "validated_at": "2026-02-17T00:08:12.605152"
     }
   ],
   "asset_stats": {
