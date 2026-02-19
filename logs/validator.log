@@ -238,3 +238,23 @@
 2026-02-16 23:25:16,203 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
 2026-02-16 23:25:20,101 - strategy_validator - INFO - 获取到 1000 条K线数据
 2026-02-16 23:25:20,101 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-17 03:25:25,338 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-17 03:25:25,340 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-17 03:25:25,340 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-17 03:25:25,345 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-17 03:25:28,965 - strategy_validator - INFO - 获取到 1000 条K线数据
+2026-02-17 03:25:28,966 - strategy_validator - WARNING - 未知策略类型 unknown，使用MA交叉策略
+2026-02-19 18:01:25,514 - strategy_validator - INFO - 已连接交易所: binance
+2026-02-19 18:01:25,561 - strategy_validator - INFO - 开始验证策略: Low PE Ratio Value Strategy
+2026-02-19 18:01:25,561 - strategy_validator - INFO - 策略逻辑: Buy stocks with PE ratio below 15. Sell when PE reaches 25. Stop loss 20%. Long-term value strategy.
+2026-02-19 18:01:25,579 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': ['sell_signal'], 'stop_loss': 0.2, 'take_profit': None}
+2026-02-19 18:01:55,642 - strategy_validator - ERROR - 获取数据失败: binance GET https://api.binance.com/api/v3/exchangeInfo
+2026-02-19 18:01:55,872 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-19 18:01:55,876 - strategy_validator - INFO - 开始验证策略: Momentum Trend Following Strategy
+2026-02-19 18:01:55,876 - strategy_validator - INFO - 策略逻辑: Buy top 10% performers from last 3 months. Hold 1 month. Monthly rebalance.
+2026-02-19 18:01:55,890 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': ['buy_signal'], 'exit_conditions': [], 'stop_loss': None, 'take_profit': None}
+2026-02-19 18:02:25,902 - strategy_validator - ERROR - 获取数据失败: binance GET https://api.binance.com/api/v3/exchangeInfo
+2026-02-19 18:02:25,904 - strategy_validator - ERROR - 无法获取市场数据
+2026-02-19 18:02:26,066 - strategy_validator - INFO - 开始验证策略: Pairs Trading Strategy
+2026-02-19 18:02:26,068 - strategy_validator - INFO - 策略逻辑: Calculate z-score of price ratio. Trade when z-score >2 or <-2. Mean reversion play.
+2026-02-19 18:02:26,068 - strategy_validator - INFO - 解析结果: {'type': 'unknown', 'parameters': {}, 'entry_conditions': [], 'exit_conditions': [], 'stop_loss': None, 'take_profit': None}
