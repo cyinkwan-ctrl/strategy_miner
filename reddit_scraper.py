@@ -47,11 +47,9 @@ class RedditPost:
     created_at: str
 
 class RedditScraper:
-    """Reddit 爬虫"""
+    """Reddit 爬虫 - 无需 API Key"""
     
     def __init__(self):
-        self.client_id = os.getenv('REDDIT_CLIENT_ID')
-        self.client_secret = os.getenv('REDDIT_CLIENT_SECRET')
         self.user_agent = os.getenv('REDDIT_USER_AGENT', 'StrategyMiner/1.0')
         self.subreddits = [
             'investing',
@@ -67,22 +65,18 @@ class RedditScraper:
             'Forex',
             'Daytrading'
         ]
+        # 使用 Reddit JSON API (无需认证，公开帖子)
         self.base_url = "https://www.reddit.com"
-        self.auth = (self.client_id, self.client_secret) if self.client_id else None
         self.headers = {"User-Agent": self.user_agent}
+        print(f"✓ Reddit 模式: 公开 JSON API (无需认证)")
     
     def fetch_posts(self, subreddit: str, sort: str = 'hot', limit: int = 50) -> List[Dict]:
-        """获取帖子"""
-        if not self.auth:
-            logger.warning(f"Reddit API 未配置，跳过 r/{subreddit}")
-            return []
-        
+        """获取帖子 - 公开 JSON API"""
         try:
-            params = {"limit": limit, "sort": sort}
+            params = {"limit": limit, "raw_json": 1}
             response = requests.get(
-                f"{self.base_url}/r/{subreddit}/{sort}.json",
+                f"{self.base_url}/r/{subreddit}/{sort}/.json",
                 headers=self.headers,
-                auth=self.auth,
                 params=params,
                 timeout=30
             )
@@ -90,13 +84,12 @@ class RedditScraper:
             if response.status_code == 200:
                 data = response.json()
                 return data.get('data', {}).get('children', [])
-            elif response.status_code == 401:
-                logger.error(f"Reddit API 认证失败")
+            elif response.status_code == 429:
+                logger.warning(f"Reddit 请求过快，限流中")
                 return []
             else:
-                logger.warning(f"Reddit API 返回状态码: {response.status_code}")
+                logger.warning(f"Reddit API 返回: {response.status_code}")
                 return []
-                
         except Exception as e:
             logger.error(f"获取 r/{subreddit} 失败: {e}")
             return []
