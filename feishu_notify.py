@@ -5,6 +5,7 @@
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -21,7 +22,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/feishu.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'feishu.log'),
         logging.StreamHandler()
     ]
 )
@@ -262,7 +263,7 @@ def notify_scan_stats(stats: Dict):
 
 if __name__ == "__main__":
     # 确保logs目录存在
-    os.makedirs('/Users/januswing/.openclaw/workspace/strategy_miner/logs', exist_ok=True)
+    os.makedirs(Path(__file__).parent / 'logs', exist_ok=True)
     
     # 测试发送
     notifier = FeishuNotifier()

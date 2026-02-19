@@ -5,13 +5,14 @@
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 from datetime import datetime
 from typing import List, Dict
 
 # 添加模块路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 def create_sample_strategies() -> List[Dict]:
     """创建示例策略（基于真实策略）"""
@@ -89,7 +90,7 @@ def create_sample_strategies() -> List[Dict]:
 
 def save_strategies(strategies: List[Dict]):
     """保存策略到 strategies.json"""
-    strategies_file = '/Users/januswing/.openclaw/workspace/strategy_miner/strategies.json'
+    strategies_file = Path(__file__).parent / 'strategies.json'
     
     try:
         with open(strategies_file, 'r') as f:

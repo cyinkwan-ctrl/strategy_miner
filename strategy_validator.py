@@ -5,6 +5,7 @@
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -25,7 +26,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/validator.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'validator.log'),
         logging.StreamHandler()
     ]
 )
@@ -405,7 +406,7 @@ class StrategyValidator:
         self.data_fetcher = MarketDataFetcher()
         self.parser = StrategyParser()
         self.backtest_engine = BacktestEngine()
-        self.strategies_file = '/Users/januswing/.openclaw/workspace/strategy_miner/strategies.json'
+        self.strategies_file = Path(__file__).parent / 'strategies.json'
         
         # 验证阈值
         self.min_annual_return = float(os.getenv('MIN_ANNUAL_RETURN', 0.12))
@@ -536,7 +537,7 @@ if __name__ == "__main__":
     import sys
     
     # 确保logs目录存在
-    os.makedirs('/Users/januswing/.openclaw/workspace/strategy_miner/logs', exist_ok=True)
+    os.makedirs(Path(__file__).parent / 'logs', exist_ok=True)
     
     validator = StrategyValidator()
     

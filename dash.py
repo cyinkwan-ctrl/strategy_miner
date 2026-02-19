@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """TradingView Sentiment Dashboard - Minimal"""
 import json, os, http.server, socketserver, webbrowser
+from pathlib import Path
 from datetime import datetime as dt
 
 PORT = 8700
-DATA_FILE = '/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_validator_state.json'
+DATA_FILE = Path(__file__).parent / 'sentiment_validator_state.json'
 
 class ReuseAddr(socketserver.TCPServer):
     allow_reuse_address = True

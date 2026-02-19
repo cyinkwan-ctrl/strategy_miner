@@ -7,6 +7,7 @@ TradingView 情绪监控器
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import re
@@ -22,7 +23,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/sentiment.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'sentiment.log'),
         logging.StreamHandler()
     ]
 )
@@ -98,7 +99,7 @@ class TradingViewSentimentMonitor:
     }
 
     def __init__(self):
-        self.state_file = '/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_state.json'
+        self.state_file = Path(__file__).parent / 'sentiment_state.json'
         self.state = self._load_state()
         self.session_state = defaultdict(list)  # asset -> ideas
 

@@ -5,6 +5,7 @@ TradingView RSS 策略发现
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import re
@@ -105,7 +106,7 @@ def main():
         print(f"  链接: {s['url']}")
 
     # 保存
-    output_file = '/Users/januswing/.openclaw/workspace/strategy_miner/tradingview_strategies.json'
+    output_file = Path(__file__).parent / 'tradingview_strategies.json'
     with open(output_file, 'w') as f:
         json.dump(strategies, f, indent=2, ensure_ascii=False)
 

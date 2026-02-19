@@ -5,6 +5,7 @@
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -378,7 +379,7 @@ class LocalBacktestEngine:
 
 def main():
     """主函数"""
-    strategies_file = '/Users/januswing/.openclaw/workspace/strategy_miner/strategies.json'
+    strategies_file = Path(__file__).parent / 'strategies.json'
     
     # 读取策略
     with open(strategies_file, 'r') as f:

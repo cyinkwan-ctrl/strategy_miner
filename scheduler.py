@@ -5,6 +5,7 @@
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -22,14 +23,14 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/scheduler.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'scheduler.log'),
         logging.StreamHandler()
     ]
 )
 logger = logging.getLogger('scheduler')
 
 # 添加当前目录到路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 from strategy_radar import StrategyRadar
 from strategy_validator import StrategyValidator
@@ -41,7 +42,7 @@ class StrategyMiningScheduler:
     def __init__(self):
         self.radar = StrategyRadar()
         self.validator = StrategyValidator()
-        self.strategies_file = '/Users/januswing/.openclaw/workspace/strategy_miner/strategies.json'
+        self.strategies_file = Path(__file__).parent / 'strategies.json'
         self.is_running = False
     
     def run_radar_scan(self):
@@ -181,7 +182,7 @@ class StrategyMiningScheduler:
 def main():
     """主入口"""
     # 确保logs目录存在
-    os.makedirs('/Users/januswing/.openclaw/workspace/strategy_miner/logs', exist_ok=True)
+    os.makedirs(Path(__file__).parent / 'logs', exist_ok=True)
     
     scheduler = StrategyMiningScheduler()
     

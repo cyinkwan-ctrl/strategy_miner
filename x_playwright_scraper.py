@@ -6,6 +6,7 @@ X/Twitter Playwright 抓取器
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -16,7 +17,7 @@ from dataclasses import dataclass
 from playwright.sync_api import sync_playwright
 
 # 添加项目根目录到路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 logging.basicConfig(
     level=logging.INFO,
@@ -47,7 +48,7 @@ class XPlaywrightScraper:
     """X/Twitter Playwright 抓取器"""
     
     def __init__(self, config_file: str = None):
-        self.config_file = config_file or '/Users/januswing/.openclaw/workspace/strategy_miner/monitored_accounts.json'
+        self.config_file = config_file or Path(__file__).parent / 'monitored_accounts.json'
         self.accounts = self._load_accounts()
         self.browser = None
         self.context = None

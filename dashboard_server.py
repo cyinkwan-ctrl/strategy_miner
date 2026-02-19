@@ -4,6 +4,7 @@
 """
 
 import http.server
+from pathlib import Path
 import socketserver
 import json
 import os
@@ -14,7 +15,7 @@ from collections import defaultdict
 from datetime import datetime
 
 PORT = 8501
-DATA_FILE = '/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_validator_state.json'
+DATA_FILE = Path(__file__).parent / 'sentiment_validator_state.json'
 
 # 情绪关键词
 BULLISH_KEYWORDS = ['bullish', 'buy', 'long', 'up', 'higher', 'breakout', 'call', 'support', 'bounce']

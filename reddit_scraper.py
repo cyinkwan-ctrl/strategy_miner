@@ -5,6 +5,7 @@ Reddit Scraper - 投资策略发现
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -17,7 +18,7 @@ import requests
 from dotenv import load_dotenv
 
 # 添加模块路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 load_dotenv()
 
@@ -26,7 +27,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/reddit.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'reddit.log'),
         logging.StreamHandler()
     ]
 )
@@ -290,7 +291,7 @@ class RedditScraper:
     
     def save_strategies(self, strategies: List[Dict]):
         """保存策略到 strategies.json"""
-        strategies_file = '/Users/januswing/.openclaw/workspace/strategy_miner/strategies.json'
+        strategies_file = Path(__file__).parent / 'strategies.json'
         
         try:
             with open(strategies_file, 'r') as f:
@@ -351,7 +352,7 @@ def main():
     args = parser.parse_args()
     
     # 确保logs目录存在
-    os.makedirs('/Users/januswing/.openclaw/workspace/strategy_miner/logs', exist_ok=True)
+    os.makedirs(Path(__file__).parent / 'logs', exist_ok=True)
     
     scraper = RedditScraper()
     

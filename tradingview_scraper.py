@@ -5,6 +5,7 @@ TradingView 策略爬虫
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import re
@@ -21,7 +22,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/tradingview.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'tradingview.log'),
         logging.StreamHandler()
     ]
 )
@@ -218,7 +219,7 @@ def main():
         print(f"  描述: {s['description'][:100]}...")
 
     # 保存到文件
-    output_file = '/Users/januswing/.openclaw/workspace/strategy_miner/tradingview_strategies.json'
+    output_file = Path(__file__).parent / 'tradingview_strategies.json'
     with open(output_file, 'w') as f:
         json.dump(strategies, f, indent=2, ensure_ascii=False)
 

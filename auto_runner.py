@@ -9,15 +9,16 @@ Strategy Miner 定时任务
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import subprocess
 from datetime import datetime
 
 # 添加路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
-os.chdir('/Users/januswing/.openclaw/workspace/strategy_miner')
+os.chdir(Path(__file__).parent.resolve())
 
 print('=' * 70)
 print(f'🚀 Strategy Miner 自动任务')

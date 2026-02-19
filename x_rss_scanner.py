@@ -6,6 +6,7 @@ X/Twitter RSS 扫描器
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -18,7 +19,7 @@ import requests
 from urllib.parse import urlparse
 
 # 添加项目根目录到路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 logging.basicConfig(
     level=logging.INFO,
@@ -47,7 +48,7 @@ class XRSSScanner:
     """X/Twitter RSS 扫描器"""
     
     def __init__(self, config_file: str = None):
-        self.config_file = config_file or '/Users/januswing/.openclaw/workspace/strategy_miner/monitored_accounts.json'
+        self.config_file = config_file or Path(__file__).parent / 'monitored_accounts.json'
         self.accounts = self._load_accounts()
         
     def _load_accounts(self) -> List[Dict]:

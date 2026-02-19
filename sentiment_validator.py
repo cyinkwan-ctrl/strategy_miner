@@ -7,6 +7,7 @@ TradingView 情绪分级验证器
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import re
@@ -24,7 +25,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/sentiment_validator.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'sentiment_validator.log'),
         logging.StreamHandler()
     ]
 )
@@ -94,7 +95,7 @@ class SentimentValidator:
     }
 
     def __init__(self):
-        self.state_file = '/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_validator_state.json'
+        self.state_file = Path(__file__).parent / 'sentiment_validator_state.json'
         self.state = self._load_state()
         self.exchange = ccxt.binance({'enableRateLimit': True, 'options': {'defaultType': 'spot'}})
 

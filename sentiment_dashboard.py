@@ -5,6 +5,7 @@ Streamlit dashboard for sentiment analysis
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import streamlit as st
@@ -25,7 +26,7 @@ st.set_page_config(
 )
 
 # Constants
-STATE_FILE = '/Users/januswing/.openclaw/workspace/strategy_miner/sentiment_validator_state.json'
+STATE_FILE = Path(__file__).parent / 'sentiment_validator_state.json'
 VALIDATION_WINDOWS = [15, 30, 60, 120, 240, 1440]
 
 # Asset mapping

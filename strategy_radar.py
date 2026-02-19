@@ -5,6 +5,7 @@
 """
 
 import os
+from pathlib import Path
 import sys
 import json
 import logging
@@ -16,7 +17,7 @@ import requests
 from dotenv import load_dotenv
 
 # 添加模块路径
-sys.path.insert(0, '/Users/januswing/.openclaw/workspace/strategy_miner')
+sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 # 导入新模块
 try:
@@ -35,7 +36,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/Users/januswing/.openclaw/workspace/strategy_miner/logs/radar.log'),
+        logging.FileHandler(Path(__file__).parent / 'logs' / 'radar.log'),
         logging.StreamHandler()
     ]
 )
@@ -58,8 +59,8 @@ class StrategyRadar:
     """策略雷达主类"""
     
     def __init__(self):
-        self.config_file = '/Users/januswing/.openclaw/workspace/strategy_miner/monitored_accounts.json'
-        self.strategies_file = '/Users/januswing/.openclaw/workspace/strategy_miner/strategies.json'
+        self.config_file = Path(__file__).parent / 'monitored_accounts.json'
+        self.strategies_file = Path(__file__).parent / 'strategies.json'
         self.rss_scanner = None
         self.playwright_scraper = None
         
@@ -391,7 +392,7 @@ class RedditScanner:
 
 if __name__ == "__main__":
     # 确保logs目录存在
-    os.makedirs('/Users/januswing/.openclaw/workspace/strategy_miner/logs', exist_ok=True)
+    os.makedirs(Path(__file__).parent / 'logs', exist_ok=True)
     
     radar = StrategyRadar()
     
