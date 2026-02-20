@@ -26,7 +26,11 @@
       ],
       "data_source": "reddit",
       "score": 542,
-      "num_comments": 89
+      "num_comments": 89,
+      "asset_class": "综合",
+      "strategy_type": "技术面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "短期均线穿越长期均线形成金叉/死叉"
     },
     {
       "id": 2,
@@ -53,7 +57,11 @@
       ],
       "data_source": "reddit",
       "score": 421,
-      "num_comments": 67
+      "num_comments": 67,
+      "asset_class": "综合",
+      "strategy_type": "技术面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "RSI超卖/超买区域可能反转"
     },
     {
       "id": 3,
@@ -80,7 +88,11 @@
       ],
       "data_source": "reddit",
       "score": 318,
-      "num_comments": 45
+      "num_comments": 45,
+      "asset_class": "综合",
+      "strategy_type": "技术面",
+      "market_environment": "趋势市场",
+      "hypothesis_summary": "布林带收窄后突破"
     },
     {
       "id": 4,
@@ -104,7 +116,11 @@
       ],
       "data_source": "reddit",
       "score": 287,
-      "num_comments": 34
+      "num_comments": 34,
+      "asset_class": "股票",
+      "strategy_type": "基本面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "低PE股票长期超额收益"
     },
     {
       "id": 5,
@@ -131,7 +147,11 @@
       ],
       "data_source": "reddit",
       "score": 198,
-      "num_comments": 28
+      "num_comments": 28,
+      "asset_class": "综合",
+      "strategy_type": "技术面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "价格触及支撑位反弹"
     },
     {
       "id": 6,
@@ -158,7 +178,11 @@
       ],
       "data_source": "reddit",
       "score": 156,
-      "num_comments": 23
+      "num_comments": 23,
+      "asset_class": "综合",
+      "strategy_type": "技术面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "MACD金叉买入，死叉卖出"
     },
     {
       "id": 7,
@@ -182,7 +206,11 @@
       ],
       "data_source": "quant_library",
       "score": 1000,
-      "num_comments": 50
+      "num_comments": 50,
+      "asset_class": "综合",
+      "strategy_type": "技术面",
+      "market_environment": "趋势市场",
+      "hypothesis_summary": "动量延续，价格趋势会持续"
     },
     {
       "id": 8,
@@ -206,7 +234,11 @@
       ],
       "data_source": "quant_library",
       "score": 800,
-      "num_comments": 35
+      "num_comments": 35,
+      "asset_class": "股票",
+      "strategy_type": "基本面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "高股息股票提供安全边际"
     },
     {
       "id": 9,
@@ -230,7 +262,11 @@
       ],
       "data_source": "quant_library",
       "score": 650,
-      "num_comments": 28
+      "num_comments": 28,
+      "asset_class": "综合",
+      "strategy_type": "资金面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "两只相关股票价差回归"
     },
     {
       "id": 10,
@@ -254,7 +290,11 @@
       ],
       "data_source": "twitter",
       "score": 500,
-      "num_comments": 100
+      "num_comments": 100,
+      "asset_class": "股票",
+      "strategy_type": "基本面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "高股息股票提供安全边际"
     },
     {
       "id": 11,
@@ -278,7 +318,11 @@
       ],
       "data_source": "twitter",
       "score": 450,
-      "num_comments": 80
+      "num_comments": 80,
+      "asset_class": "股票",
+      "strategy_type": "基本面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "高质量公司长期跑赢"
     },
     {
       "id": 12,
@@ -302,7 +346,11 @@
       ],
       "data_source": "twitter",
       "score": 800,
-      "num_comments": 200
+      "num_comments": 200,
+      "asset_class": "股票",
+      "strategy_type": "基本面",
+      "market_environment": "震荡市场",
+      "hypothesis_summary": "等待好公司出现好价格"
     },
     {
       "id": 13,
@@ -326,7 +374,11 @@
       ],
       "data_source": "twitter",
       "score": 600,
-      "num_comments": 120
+      "num_comments": 120,
+      "asset_class": "股票",
+      "strategy_type": "基本面",
+      "market_environment": "趋势市场",
+      "hypothesis_summary": "周期股随经济周期波动"
     }
   ],
   "metadata": {
